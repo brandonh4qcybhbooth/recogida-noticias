@@ -60,6 +60,285 @@
     }
    ],
    "noticias_nuevas": 1575
+  },
+  {
+   "hora": "2026-11-15T15:08+00:00",
+   "por_fuente": {
+    "BBC": 1,
+    "Al Jazeera": 0,
+    "The Guardian": 0,
+    "DW": 0,
+    "NPR": 0,
+    "Euronews": 1,
+    "Politico Europe": 0,
+    "France 24": 0,
+    "EUobserver": 0,
+    "EUalive": 0,
+    "RTVE": 0,
+    "elDiario.es": 0,
+    "20minutos": 2,
+    "El Confidencial": 11,
+    "The Objective": 1,
+    "Europa Press": 0,
+    "RTP": 0,
+    "SIC Notícias": 0,
+    "CNN Portugal": 1,
+    "Notícias ao Minuto": 2,
+    "Diário de Notícias": 3,
+    "Renascença": 1,
+    "Canarias Ahora": 1,
+    "RTVC": 0,
+    "Diario de Avisos": 0,
+    "Canarias7": 0,
+    "La Provincia": 1,
+    "El Día": 4,
+    "Diario de Fuerteventura": 0,
+    "Noticias Fuerteventura": 0,
+    "Fuerteventura Ahora": 0
+   },
+   "fallos": [],
+   "leer_con_chrome": [
+    {
+     "fuente": "AP",
+     "url": "https://apnews.com/world-news",
+     "motivo": "bloquea a GitHub (403)"
+    },
+    {
+     "fuente": "The Brussels Times",
+     "url": "https://www.brusselstimes.com/",
+     "motivo": "la portada no deja ver las noticias sin navegador"
+    },
+    {
+     "fuente": "TSF",
+     "url": "https://www.tsf.pt/",
+     "motivo": "bloquea a GitHub (403)"
+    },
+    {
+     "fuente": "Jornal de Notícias",
+     "url": "https://www.jn.pt/",
+     "motivo": "bloquea a GitHub (403)"
+    }
+   ],
+   "detalle": {
+    "BBC": {
+     "leidas": 25,
+     "repetidas": 24,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:57+00:00"
+    },
+    "Al Jazeera": {
+     "leidas": 25,
+     "repetidas": 25,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:29+00:00"
+    },
+    "The Guardian": {
+     "leidas": 45,
+     "repetidas": 28,
+     "antiguas": 17,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:03+00:00"
+    },
+    "DW": {
+     "leidas": 127,
+     "repetidas": 26,
+     "antiguas": 101,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:40+00:00"
+    },
+    "NPR": {
+     "leidas": 10,
+     "repetidas": 10,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T10:00+00:00"
+    },
+    "Euronews": {
+     "leidas": 50,
+     "repetidas": 48,
+     "antiguas": 1,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:00+00:00"
+    },
+    "Politico Europe": {
+     "leidas": 10,
+     "repetidas": 10,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:32+00:00"
+    },
+    "France 24": {
+     "leidas": 24,
+     "repetidas": 24,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:16+00:00"
+    },
+    "EUobserver": {
+     "leidas": 20,
+     "repetidas": 6,
+     "antiguas": 14,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T09:00+00:00"
+    },
+    "EUalive": {
+     "leidas": 12,
+     "repetidas": 9,
+     "antiguas": 3,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T10:44+00:00"
+    },
+    "RTVE": {
+     "leidas": 53,
+     "repetidas": 53,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": null
+    },
+    "elDiario.es": {
+     "leidas": 100,
+     "repetidas": 82,
+     "antiguas": 18,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:27+00:00"
+    },
+    "20minutos": {
+     "leidas": 184,
+     "repetidas": 152,
+     "antiguas": 30,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:00+00:00"
+    },
+    "El Confidencial": {
+     "leidas": 15,
+     "repetidas": 0,
+     "antiguas": 4,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:43+00:00"
+    },
+    "The Objective": {
+     "leidas": 20,
+     "repetidas": 19,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:04+00:00"
+    },
+    "Europa Press": {
+     "leidas": 10,
+     "repetidas": 10,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T13:33+00:00"
+    },
+    "RTP": {
+     "leidas": 50,
+     "repetidas": 35,
+     "antiguas": 0,
+     "descartadas": 15,
+     "mas_reciente": "2026-11-15T14:28+00:00"
+    },
+    "SIC Notícias": {
+     "leidas": 10,
+     "repetidas": 10,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:43+00:00"
+    },
+    "CNN Portugal": {
+     "leidas": 50,
+     "repetidas": 49,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:00+00:00"
+    },
+    "Notícias ao Minuto": {
+     "leidas": 700,
+     "repetidas": 542,
+     "antiguas": 156,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:04+00:00"
+    },
+    "Diário de Notícias": {
+     "leidas": 19,
+     "repetidas": 15,
+     "antiguas": 1,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:49+00:00"
+    },
+    "Renascença": {
+     "leidas": 25,
+     "repetidas": 24,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": null
+    },
+    "Canarias Ahora": {
+     "leidas": 91,
+     "repetidas": 39,
+     "antiguas": 51,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:59+00:00"
+    },
+    "RTVC": {
+     "leidas": 60,
+     "repetidas": 60,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": null
+    },
+    "Diario de Avisos": {
+     "leidas": 20,
+     "repetidas": 20,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:54+00:00"
+    },
+    "Canarias7": {
+     "leidas": 100,
+     "repetidas": 100,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T13:44+00:00"
+    },
+    "La Provincia": {
+     "leidas": 20,
+     "repetidas": 19,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T14:59+00:00"
+    },
+    "El Día": {
+     "leidas": 20,
+     "repetidas": 16,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-15T15:03+00:00"
+    },
+    "Diario de Fuerteventura": {
+     "leidas": 60,
+     "repetidas": 60,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": null
+    },
+    "Noticias Fuerteventura": {
+     "leidas": 52,
+     "repetidas": 52,
+     "antiguas": 0,
+     "descartadas": 0,
+     "mas_reciente": null
+    },
+    "Fuerteventura Ahora": {
+     "leidas": 20,
+     "repetidas": 0,
+     "antiguas": 20,
+     "descartadas": 0,
+     "mas_reciente": "2026-11-12T21:24+00:00"
+    }
+   },
+   "noticias_nuevas": 29
   }
  ],
  "noticias": [
@@ -17387,6 +17666,325 @@
    "resumen": "",
    "texto": "El Consejo de Ministros aprueba la subvención directa para la ampliación y mejora del EDAR de La Lajita\nBlas Acosta: “El Gobierno de España responde con hechos a las necesidades de Canarias\"\nEl PSOE de Fuerteventura explica en nota de prensa que \"pone en valor el acuerdo adoptado por el Consejo de Ministros de aprobar dos subvenciones de 20 millones de euros (40 millones en total) para el desarrollo y ejecución de proyectos relacionados con el ciclo integral del agua en los dos archipiélagos. En el caso de Canarias, uno de los proyectos beneficiados es la ampliación y mejora del EDAR de La Lajita (Fuerteventura), además de actuaciones en Gran Canaria, Lanzarote, La Palma, Tenerife, El Hierro y La Gomera\".\nDe esta forma el secretario general del PSOE de Fuerteventura, Blas Acosta, explica que “el Gobierno de España responde con hechos a las necesidades de Canarias y financia con 20 millones de euros actuaciones vinculadas al tratamiento del agua y su mejor aprovechamiento, entre ellas el EDAR de La Lajita”.\nEn el caso de Fuerteventura, este Real Decreto por el que se regula la concesión directa de la citada doble subvención a Canarias y Baleares, incluye la ampliación, mejora y tratamiento terciario de la EDAR de La Lajita, en el término municipal de Pájara.\n“Es un gran logro para Fuerteventura que ha sido largamente trabajado, a distintos niveles, por administraciones y representantes políticos de la isla y de Canarias hasta alcanzar este Real Decreto del Ministerio de Transición Ecológica y Reto Demográfico”, añade Blas Acosta, “en especial la sensibilidad y compromiso del ministro Ángel Víctor Torres cuya participación ha sido clave”.\n\"En este sentido, el acuerdo del Consejo de Ministros contempla dos subvenciones, una a la Comunidad Autónoma de las Illes Balears y otra a la Comunidad Autónoma de Canarias. Su finalidad es financiar inversiones en el ciclo integral del agua: abastecimiento, saneamiento, depuración y reutilización. Se justifica por la insularidad y la escasez de recursos hídricos convencionales de ambos archipiélagos, y por la necesidad de dar continuidad a las subvenciones nominativas de 2025\", explica el partido socialiosta.\nEn Canarias, además del EDAR de La Lajita, se contemplan la renovación de las redes de distribución de agua para el abastecimiento de Arrecife, y mejora de la canalización del barranco de Guacimeta (Lanzarote), la ampliación de la EDAR Puerto de Mogán, incluida la adecuación del tratamiento terciario (Gran Canaria), la construcción de un depósito de agua en San Andrés (El Hierro), el tratamiento de lodos de EDAR y fosas sépticas mediante secado solar en el término municipal de San Sebastián de La Gomera (La Gomera), la modernización del Canal General La Palma I mediante su entubado en el tramo Aduares-Fuencaliente (fases I y II, La Palma) y el tratamiento terciario en la EDAR de Buenos Aires mediante electrodiálisis reversible, dentro del sistema territorial de saneamiento y depuración Metropolitano I (Tenerife).\nCada subvención es de 20 millones de euros, con cargo a los Presupuestos Generales del Estado de 2025 prorrogados para 2026.",
    "texto_estado": "descargado"
+  },
+  {
+   "fuente": "BBC",
+   "bloque": "Internacional",
+   "titulo": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "enlace": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "publicada": "2026-11-15T14:56+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "texto": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says\n- Published\nAlice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.\nJensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.\nMegaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.\nThe Singapore-based company said on Sunday it had launched an internal investigation into its business.\nIt said it was aware of reports \"containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence\".\nIt added that it \"conducts legitimate and lawful business\" and has \"retained external legal counsel to conduct a thorough internal investigation\".\nOn Friday, US Treasury Secretary Scott Bessent blamed fellow Trump cabinet colleague Howard Lutnick's commerce department for failing to properly oversee the export of high-end chips.\nBessent told CNBC that several agencies \"were in favour of putting Megaspeed on the entity list for months... but Commerce has the pen... and you will have to ask them about their internal process\".\nThe so-called entity list restricts US trade with overseas firms and individuals.\nLutnick has been called to testify before the Senate Banking Committee next month over his department's role in allowing Nvidia to export its advanced chips.\nOther congressional committees have asked both Lutnick and his department to retain all records relating to Nvidia and Jensen Huang.\nMegaspeed is suspected of giving backdoor access to Nvidia chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.\nNvidia has been banned from selling its advanced chips to China.\nWhile Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.\nSingapore has said that while it does not enforce \"unilateral export controls imposed by other countries\" it expects all companies in its jurisdiction to respect such regulations.\nMegaspeed said it \"designs and maintains its global operational and supply-chain control frameworks to comply with all applicable laws and regulatory regimes\". It said this includes \"US export control requirements and local jurisdiction rules in every market where we operate\".\nChina has denied that Alice Huang is a spy and warned the US not to use the scandal as a \"pretext for imposing a technological blockade\" on AI technology.\nRelated topics\n  - Published2 days ago\n  - Published2 days ago",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "Euronews",
+   "bloque": "Europa",
+   "titulo": "Dutch government holds weekend crisis talks to stave off collapse",
+   "enlace": "https://www.euronews.com/2026/11/15/dutch-government-holds-weekend-crisis-talks-to-stave-off-collapse",
+   "publicada": "2026-11-15T15:00+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Prime Minister Rob Jetten has struggled to rein in political infighting within his minority coalition, a crisis that culminated when disagreements arose over a so-called \"millionaire's tax\" proposed by left-wing opposition parties.",
+   "texto": "Prime Minister Rob Jetten has struggled to rein in political infighting within his minority coalition, a crisis that culminated when disagreements arose over a so-called \"millionaire's tax\" proposed by left-wing opposition parties.\nDutch Prime Minister Rob Jetten extended crisis talks with his coalition partners over the weekend to stave off a government collapse, after an hours-long meeting on Friday failed to reach a consensus.\nThe crisis stems from disagreements between Jetten's centrist D66, centre-right CDA and right-wing VVD over the country's budget plans.\nThe already fragile unity in Jetten's Cabinet took a hit this week when lawmakers from his centrist D66 party and the center-right Christian Democrats (CDA) agreed to amendments proposed by two center-left opposition parties — PRO and Volt — to push a tax package through the Dutch parliament in a tight vote Thursday night after a daylong debate.\nBut the terms of the deal — PRO's leader Jesse Klaver repeatedly called part of the agreement a “millionaire's tax” — enraged the VVD.\nThe proposal aims to apply a higher tax of 38.5% on returns above €60,000, for example from interest earned on savings or investments. Anyone who makes less than €60,000 in profit from assets would not have to pay this higher rate.\nThe crisis erupted when the plan was passed by parliament after it had clinched support from left-wing parties to push through the tax deal. The VVD, however, voted against the government's own tax plan, with party leader Dilan Yeşilgöz-Zegerius saying she had been blindsided.\nVVD calls minority coalition a 'failed experiment'\nFollowing more than seven hours of crisis talks on Friday with his coalition partners, during which the government's future hung by a thread, Jetten emerged to reveal they would stay together, for now.\nBut Yeşilgöz told reporters after the talks she believed \"the minority cabinet is a failed experiment and it cannot go on like this\".\nShe called for a \"fundamental reset\" of the coalition and even Jetten acknowledged the need for a \"serious fresh start\".\n\"In recent days, many good things have happened, but also things that have not gone well... we have to do better,\" said Jetten.\n\"And that requires in-depth talks, which we began today. This conversation is not yet complete. For that reason, I will spend the next few days continuing these talks with the three coalition parties, in a calm and measured manner,\" said Jetten.\nIt is the latest crisis in a splintered political landscape in the Netherlands that has seen four general elections in a decade and eroded public trust in the nation's lawmakers.\nJetten, the Netherlands' youngest premier, took office pledging to seek a new era of consensus among parties in the Dutch parliament, but has so far struggled to rein in political infighting among parties in the legislature and even in his own coalition.\nThe latest spat has raised the prospect of snap elections just nine months after Jetten's government took office.\nPolls show that the left-wing PRO party and their energetic young leader Jesse Klaver would win a snap election, with far-right firebrand Geert Wilders in second place.",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "20minutos",
+   "bloque": "España",
+   "titulo": "Los padres de Pedro Sánchez arropan a su hijo en el mitin de Alcorcón: \"Vivan las madres que nos parieron\"",
+   "enlace": "https://www.20minutos.es/nacional/los-padres-pedro-sanchez-arropan-su-hijo-mitin-alcorcon-vivan-las-madres-que-nos-parieron_7061307_0.html",
+   "publicada": "2026-11-15T14:47+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Pedro Sánchez Hernández y Magdalena Pérez-Castejón, que no suelen acudir a actos de partido, no han dejado de aplaudir a su hijo durante su intervención.",
+   "texto": "El presidente del Gobierno y candidato a la reelección, Pedro Sánchez , ha avanzado este domingo varias de las medidas del programa electoral del PSOE en un acto en Alcorcón (Madrid) al que han acudido sus padres , que no suelen ir a actos de partido, y varios ministros del Ejecutivo. Situados en primera fila, los padres del líder socialista, Pedro Sánchez Hernández y Magdalena Pérez-Castejón , han arropado a su hijo con aplausos durante toda su intervención. En un momento del discurso de Sánchez, una asistente al acto aprovechó un breve silencio para gritarle \"¡viva la madre que te parió!\", un comentario que Sánchez ha utilizado para reivindicar la figura de las madres que \"parieron\" a los socialistas, en contraposición de los insultos que reciben para atacar a sus hijos. \"En solidaridad, voy a decir viva las madres que nos parieron \", ha proclamado Sánchez ante un auditorio que ha roto en aplausos, mientras las cámaras han enfocado a la madre del candidato socialista sonriendo y aplaudiendo. Ante un polideportivo abarrotado —5.500 personas, según el PSOE—, Sánchez ha compartido a su llegada besos y abrazos con decenas de militantes y también ha bailado animadamente en una marea de banderas de España, del PSOE y del colectivo LGTBIQ+, antes de ponerse una camiseta roja con el lema, \"La fuerza de un país\". Al subirse al escenario, el líder socialista ha empuñado también la bandera española , que ha reclamado como propia, y ha dado él mismo la bienvenida al mitin, un gesto inédito. \"Esta es nuestra bandera, la de la Constitución\", ha enfatizado, y ha subrayado que la enseña nacional representa la igualdad, la diversidad territorial y la lucha por la democracia de las generaciones anteriores.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "20minutos",
+   "bloque": "España",
+   "titulo": "No es un pintalabios, sino una power bank, y sorprendentemente barata",
+   "enlace": "https://www.20minutos.es/ofertas-descuentos/comprar-mini-bateria-externa-woox-5000mah-usb-c-lightning_7061215_0.html",
+   "publicada": "2026-11-15T15:00+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Cabe en un puño, pesa 100 gramos y lleva los conectores incorporados: esta batería de 5.000 mAh rescata el móvil cuando más falta hace.",
+   "texto": "Vas en el metro, son las seis de la tarde y tienes un 12 % de batería Esa escena, que se repite en muchos escenarios distintos, tiene arreglo con un accesorio que ocupa lo mismo que una barra de labios. La mini batería externa Woox de 5.000 mAh se guarda en cualquier bolsillo pequeño y está pensada para ir siempre encima. Sus medidas lo explican mejor que cualquier adjetivo: 7,8 x 3,9 x 2,5 centímetros y 100 gramos, según la ficha del producto. Dicho de otro modo, pesa la mitad que muchos móviles y desaparece dentro de un bolso, una riñonera o el bolsillo del abrigo. Además, incorpora una correa para colgarla de la muñeca o engancharla a la mochila. La mini batería externa Woox cuesta ahora 15 euros en AliExpress dentro de la promoción del 11.11, frente a los 18 euros que marcaba antes. A ese importe se suma un detalle que pesa en la decisión, se envía gratis desde España , con entrega estimada en torno a dos días y sin gastos de importación. Por otra parte, el gran acierto está en los dos conectores que lleva integrados, uno USB-C y otro Lightning. Eso significa que no hace falta cargar con cables : se enchufa directamente al puerto del teléfono y empieza a alimentarlo. El primero cubre los iPhone recientes, los Samsung y la mayoría de móviles Android; el segundo, los iPhone anteriores y muchos accesorios de Apple. Esa doble salida la convierte en una compra práctica para casas donde conviven varios dispositivos. De hecho, el fabricante la anuncia como compatible con relojes, auriculares y tabletas, de modo que una sola batería sirve a toda la familia y evita ir repartiendo cargadores por las mochilas. Los 5.000 mAh de capacidad dan para devolver al smartphone una buena parte de su autonomía, lo justo para llegar a casa con margen, pedir un taxi o seguir tirando del GPS. En cambio, con unos auriculares inalámbricos o un reloj la reserva se estira durante varias recargas completas sin pasar por el enchufe . También ayuda la carga rápida que figura en el anuncio, pensada para que esos minutos de espera en una cafetería o en la puerta de embarque cundan de verdad. En el lateral, unos indicadores luminosos muestran la energía restante , así que basta un vistazo para saber cuándo toca recargarla. El diseño acompaña. Con acabado texturizado y disponible en negro o en blanco, tiene más aspecto de complemento que de gadget , algo que se agradece cuando va a la vista. Por eso funciona igual de bien como capricho propio que como regalo de amigo invisible, ahora que se acercan las fechas. Conviene tener en cuenta que la rebaja está ligada a la campaña del 11.11 y que la tienda limita la compra a tres unidades por persona a este precio. Por muy poco dinero , la mini batería externa Woox acaba con el agobio del 5 % y resuelve un apuro que, tarde o temprano, le llega a cualquiera con un móvil en la mano.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Rollán tacha de \"apretón del vago\" los Consejos de Ministros extraordinarios de Sánchez en campaña electoral",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/rollan-acusa-sanchez-campana-electoral-1hms-1svm_4465415/",
+   "publicada": "2026-11-15T14:43+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El dirigente popular denuncia el uso partidista de las instituciones y cuestiona la credibilidad del Ejecutivo por aprobar iniciativas sociales antes de las urnas",
+   "texto": "El presidente del Senado, Pedro Rollán , ha tachado de \"apretón del vago\" los Consejos de Ministros extraordinarios que está celebrando el Gobierno de Pedro Sánchez para aprobar medidas de contenido social en plena campaña electoral y acusó al jefe del Ejecutivo de utilizar las instituciones públicas para hacer campaña por el PSOE. En una entrevista en Servimedia , Rollán enmarcó estas iniciativas del Ejecutivo en la estrategia electoral de los socialistas de cara a las elecciones generales del próximo 29 de noviembre y situó el nivel de credibilidad de Sánchez en \"cero o tendente a cero\". \"Esto se puede considerar como el apretón del vago . Lo que no ha sido capaz de llevar a cabo a lo largo de ocho años , pretende reformarlo y reformularlo en los últimos 20 días. No cuela\", aseveró. Precisamente, el Consejo de Ministros extraordinario celebrado este pasado viernes, primer día de campaña electoral , aprobó la tramitación por la vía de urgencia del decreto para revalorizar las pensiones en 2027 entre un 3% y un 4%, a falta de conocer el dato de inflación de noviembre, que el Instituto Nacional. Pedro Sánchez intenta inyectar ánimos a su grupo: \"Si necesitáis fuerzas, pensad en lo que hemos sacado adelante…\" Ana Sánchez El líder socialista apremia a diputados, senadores y europarlamentarios. Les pidió un \"esfuerzo adicional\" y que se dejen \"la piel\", además de llamarles a \"vaciarse\" y \"entregarse\" El Gobierno ha programado un total de cuatro Consejos de Ministros durante las dos semanas de campaña electoral. A las reuniones ordinarias de los martes 17 y 24 de noviembre se suman dos extraordinarias, la primera celebrada el viernes y la segunda prevista para el próximo día 20. El propio Sánchez ya avanzó esta pasada semana en una entrevista en La Séptima que el Ejecutivo aprovecharía los días previos a las elecciones para aprobar medidas sociales que habían quedado pendientes durante la legislatura. Entre las iniciativas que el Gobierno tiene en cartera figura una nueva subida del salario mínimo interprofesional (SMI) . Elecciones generales 29-N | Las pensiones, la vivienda y la red ferroviaria protagonizan el debate económico de la campaña electoral L. A. Cuatro representantes de las principales fuerzas políticas en España (PP, PSOE, Vox y Frente Amplio) se ven cara a cara por primera vez en la campaña electoral hacia las elecciones generales del 29-N Rollán cuestionó la oportunidad de estas iniciativas a las puertas de las elecciones y reprochó a Sánchez que, además, se sirva \"desde las instituciones, desde la tribuna de la Presidencia del Gobierno y desde la sala de prensa del Consejo de Ministros\" para hacer \"mítines\".",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Sánchez vuelve a prometer vivienda pública y permisos retribuidos con parte de sus compromisos de 2023 aún pendientes",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/sanchez-vuelve-a-prometer-vivienda-publica-y-permisos-retribuidos-con-parte-de-sus-compromisos-de-2023-aun-pendientes_4465412/",
+   "publicada": "2026-11-15T14:36+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El jefe del Gobierno incluye medidas para dar un golpe de efecto como el reconocimiento legal de la \"unión de amistad\" y el cheque dental por 200 euros",
+   "texto": "Pedro Sánchez ha reciclado varias de las promesas que ya incluyó en su programa electoral de 2023, como más vivienda pública, conciliación y ayudas fiscales a las familias en el que ha redactado para concurrir al 29-N . El líder socialista ha elegido Alcorcón (Madrid), una gran ciudad de población trabajadora, para presentar su programa electoral, paseando la bandera española. Sin embargo, solo ha dado a conocer sus promesas estrella. Entre ellas, algunas nuevas y efectistas como el impuesto a los fondos buitre, el reconocimiento legal de las uniones de amistad para personas que no son pareja ni familiares o el cheque dental de 200 euros. Unas tres horas después, el PSOE ha hecho público el programa. Entre lo anunciado durante su mitin, si el líder socialista vuelve a ser presidente del Gobierno ha asegurado que aprobará una prestación para remunerar cuatro semanas de permiso parental para el cuidado de hijos menores de ocho años con el 100% de la base reguladora . \"En España, si tienes un hijo o una hija de menos de ocho años, tienes un permiso, pero no tienes una retribución\" , ha subrayado. Esta nueva promesa llega después de que en su programa de 2023, Sánchez estableciera como objetivo \"avanzar en permisos retribuidos para los cuidados , que garanticen conciliación y corresponsabilidad en vida familiar, laboral y personal, en el marco del diálogo social\". Lo incluyó dos veces, para que no hubiera dudas. \"Avanzaremos en la implantación de permisos retribuidos para los cuidados, considerando la perspectiva del ciclo de la vida, siempre en el marco del diálogo social, y desde la perspectiva de género\", insiste el programa. La novedad ahora consiste en concretar una cuantía y duración. Los anuncios sobre más vivienda pública si volvía a gobernar fueron también una constante durante la campaña de 2023 y atravesaron aquel programa. El jefe del Gobierno ha prometido hoy que elevará el parque público de vivienda al 6% en 2030 , cuando su programa anterior recoge el objetivo de llevar la vivienda pública en régimen de alquiler al 20%. Hoy sigue muy lejos de este porcentaje. Sánchez también ha asegurado que impedirá la venta de inmuebles protegidos a fondos buitre, pero esto ya lo había prometido en 2023 . \"Impediremos cualquier posibilidad de incorporarse al mercado libre mediante procesos de descalificación y/o privatización de vivienda para un uso social, garantizando que no pueda venderse a ningún fondo de inversión\", es lo que figura en aquel programa.. En aquel programa lo que no figuraba y se incluye en este es elevarles los impuestos. \"A los grandes fondos de inversión y a los grandes propietarios que tengan viviendas vacías, que utilicen para apartamentos turísticos o que tengan precios de alquiler que son absolutamente inasequibles para la clase media y trabajadora de nuestro país, les vamos a poner más impuestos\", ha asegurado Sánchez. El jefe del Gobierno admite que en vivienda \"queda mucho por hacer\" pero saca pecho de estar \"marcando el camino\", pese a la gravedad de la crisis de vivienda que sufre el país tras ocho años de Ejecuivo progresista. \"Hemos multiplicado por ocho el presupuesto en vivienda durante estos años de Gobierno\", ha puesto sobre la mesa. La criminalidad aumenta un 10,4% desde la llegada de Sánchez al Gobierno: los delitos sexuales son los que más crecen Cristina García Vázquez Otra promesa que el líder socialista reformula es la conversión del mínimo por descendientes del IRPF en un crédito fiscal reembolsable para beneficiar a dos millones de hogares. El objetivo permitirá aprovechar los beneficios fiscales por hijos a las familias que no acceden a ellos por tener ingresos, y por tanto, retenciones, bajas. Esta promesa se encuentra en el programa de 2023 con una formulación muy parecida: \"aumentar el mínimo por descendientes y personas dependientes en el IRPF con el fin de apoyar a las familias con hijos, impulsar la natalidad y acompañar en el cuidado de las personas mayores y dependientes\". La novedad es solo la concreción de cómo llevarlo a cabo. Sánchez defiende que su Gobierno \"cumple\" Pese a este reciclaje, Sánchez ha insistido durante su mitin que el suyo es \"un Gobierno que cumple\". Lo ha apoyado en la reivindicación de varias medidas aprobadas en la última legislatura, que considera objetivos cumplidos, como la ampliación del permito de paternidad y maternidad a 19 semanas. Sin embargo, su programa de 2023 prometía que alcanzaría las 20 semanas en esta legislatura. Para vender la medida como objetivo cumplido, Sánchez ha ignorado lo que incluyó en su programa y ha comparado con el permiso que existía cuando él llegó al Gobierno, desalojando a Mariano Rajoy . \"En 2018, cinco semanas; en 2026, 19 semanas\", ha defendido. \"Compromiso adquirido, compromiso cumplido\", ha añadido.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Feijóo anuncia que hará campaña en Guipúzcoa tras el ataque al PP en Hernani: \"La calle no es vuestra\"",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/feijoo-campana-elecciones-generales-pp-sanchez_4465397/",
+   "publicada": "2026-11-15T13:30+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El líder del PP pide a Sánchez que sus socios no violenten la campaña y apela a las mujeres para \"arrasar\" a un Gobierno al que vincula con la investigación de las pulseras antimaltrato",
+   "texto": "El presidente del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo , ha anunciado este domingo en Santander que hará campaña en Guipúzcoa junto a Jon Echeverría, cabeza de lista al Congreso por esa provincia, un día después de que tuviera que suspender un acto suyo en Hernani tras recibir un ataque con piedras, huevos y petardos. \"La calle no es vuestra. La calle es de todos los españoles y no vais a expulsar de ella nunca a nadie\", ha advertido a los violentos en el tercer día de campaña de las generales que Sánchez adelantó al 29-N . Feijóo ha dedicado el arranque de su mitin en el Palacio de Exposiciones y Congresos a los populares vascos, que el sábado cancelaron su ruta por la provincia al no ver condiciones democráticas para hacer campaña. \"Os anuncio que haré parada en Guipúzcoa para hacer campaña con Jon. Seguid adelante\", les ha dicho a través del presidente del PP vasco, Javier de Andrés. También se ha acordado de los dos jóvenes de Nuevas Generaciones agredidos en la sede del partido en Baracaldo durante la huelga general del 11 de noviembre . El tercer mensaje ha sido para Pedro Sánchez , \"el que lleva gobernando toda la legislatura con esa gentuza\", en referencia a EH Bildu. \"Señor Sánchez, dígale a sus socios que no violenten la campaña , que no le peguen patadas y puñetazos a los chavales\", ha advertido el líder de los populares. Feijóo ha reprochado al Partido Socialista de Euskadi que \"se ha callado\" y a Bildu que \"está encantado\". \"Usted ha sido presidente con los votos de Bildu\", le ha echado en cara a Sánchez. Las pulseras y el voto de las mujeres Feijóo ha repasado después la \"semanita\" del Gobierno: la imputación del exdelegado del Gobierno en Ceuta y las investigaciones sobre la financiación del PSOE y sobre las pulseras antimaltrato, que el jueves llevaron a la UCO al Ministerio de Igualdad por encargo de la Fiscalía Europea , tal y como contó ElConfidencial. \"Las sospechas de corrupción de este Gobierno efectivamente han llegado hasta la protección de las mujeres maltratadas \", ha sostenido. \"Y todavía se atreven a pedirle el voto a las mujeres. No sé, un mínimo pudor, digo yo, ¿no?\", ha añadido Feijóo con cierta sorna, que, de nuevo, ha vuelto sobre las saunas del difunto suegro de Sánchez, por las que en julio de 2025 le llamó en el Congreso \" partícipe a título lucrativo \" de la prostitución: \"Una década después, Sánchez aún no ha aclarado si el dinero de la prostitución le pagó a las primarias\". Finalmente, ha querido apelar al voto femenino con una frase contundente: \"Las mujeres también van a arrasar a este Gobierno en las urnas\". Paiporta, el AVE y el campo Feijóo ha reprochado a Sánchez sus ausencias en los momentos de crisis en los últimos años. \"Sánchez ni estuvo en el funeral por las víctimas de Urda. Tampoco estuvo en el funeral en Huelva por las víctimas de Adamuz\", ha recordado. Le ha echado en cara que \"huyó de Paiporta \", que abandonó entre incidentes en la visita del 3 de noviembre de 2024 tras la dana, y que \"se fue de vacaciones con Ceuta\" tras la entrada masiva por el Tarajal de finales de julio. \"Cuando hay un problema, seré el primero en llegar y el último en irme\", ha prometido. \"Tengo una mala noticia para usted, señor Sánchez. Voy a revalorizar las pensiones cada año conforme al índice de precios al consumo\", ha garantizado Feijóo. Ha prometido también que, tras una auditoría y un plan de choque ferroviario, se volverá a devolver el dinero \"cuando un AVE llegue con retraso\", algo que Renfe dejó de hacer en julio de 2024 con las demoras de 15 y 30 minutos. Con el accidente de Urda, que dejó 69 muertos aún reciente, ha zanjado: \"Los trenes hay que subirse tranquilos, coño\". Feijóo pide causar a Sánchez \"el mayor de los castigos\" el 29N y cree que adelanta por \"miedo\" a la corrupción Ana Belén Ramos El líder del PP se pone ya el traje de campaña, pide \"una oportunidad para el cambio\" y asume que \"los retos de la siguiente legislatura solo son comparables con los que tenía España hace 50 años\". Avisa a los suyos: \"No nos confiemos\" Ya al final de su intervención, Feijóo ha tenido un guiño para el mundo rural : \"Los jóvenes que se vayan a vivir al medio rural no van a pagar impuestos por adquirir una vivienda en los municipios despoblados\". Es el \"impuesto cero\" que ya avanzó el 16 de octubre en Toledo, al que ha sumado el compromiso de derogar los requisitos que España imponga a agricultores, ganaderos y pescadores por encima de \"los que exige Europa\". \"Las leyes que se aprueban en la ciudad nunca más ignorarán el campo\", ha asegurado. A dos semanas de las urnas y con el objetivo de \"subir un escaño más en Cantabria\", Feijóo ha pedido a los suyos mantener la movilización hasta el 29 de noviembre a las once de la noche: \"Ni un paso atrás, ni un voto en casa\". Y ha pedido el voto también a quienes \"fueron engañados por el PSOE\": \"Somos la casa común del cambio que España necesita. Y os digo, nuestras puertas están abiertas\".",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "La Policía continúa por sexto día con la búsqueda del culpable de la muerte de un agente en Oviedo",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/policia-busca-autor-explosion-oviedo-1tna-1tps_4465366/",
+   "publicada": "2026-11-15T11:16+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El dispositivo rastrea fincas, edificios y naves de la capital asturiana sin localizar al sospechoso, acusado de causar una muerte y dejar dos heridos",
+   "texto": "La Policía Nacional continúa con el operativo de búsqueda , por sexto día, para determinar el paradero y proceder al arresto del responsable del artefacto explosivo que el martes mató a un agente e hirió de gravedad a otro en un edificio de Oviedo al que habían acudido por un tiroteo previo. Los agentes desplegados en el dispositivo siguen rastreando todas las pistas que puedan llevar a la localización y detención del presunto autor, un hombre de unos 60 años que cuenta con varios antecedentes por delincuencia común y que podría ir armado. El operativo policial puesto en marcha ha dado lugar a varios registros , entre ellos en una finca cercana al inmueble, en un edificio del barrio de Pumarín o en unas naves del Polígono Espíritu Santo , que han concluido sin éxito . La ministra de Defensa, Margarita Robles , expresó ayer durante un acto en Oviedo el \"compromiso\" de las fuerzas y cuerpos de seguridad para dar con su paradero y aseguró que \"en ningún caso es militar ni legionario\" , sino que \"es simplemente un asesino sin matices\". Tiroteo y explosión de una mochila bomba en Oviedo: un policía fallecido, heridos y últimas noticias en Villafría, hoy en directo A. Palacios Sigue la última hora del tiroteo y explosión en Oviedo que ha provocado la muerte de un policía aquí, en ElConfidencial Los hechos ocurrieron a las 7:30 horas del martes en un inmueble situado en la calle Rafael Urrusti , en una zona de viviendas sociales del barrio de Villafría , al sureste de la capital asturiana, donde el presunto autor protagonizó -al parecer por un conflicto vecinal - un tiroteo que hirió de bala a una joven de 17 años, que está fuera de peligro. Los primeros agentes intervinientes encontraron en el rellano de la vivienda una mochila con lo que aparentemente era un artefacto explosivo , por lo que se dio aviso especialistas de la unidad canina y a la de desactivación de explosivos (Tedax), que decidieron sacar el bulto a la calle para evitar una situación de peligro para los vecinos y fue en el momento de manipularla cuando explotó. El Tedax herido en Oviedo evoluciona favorablemente tras ser operado y perder la visión de un ojo EFE Los hechos ocurrieron en un inmueble del barrio de Villafría sobre las 7:30 horas, cuando se produjo un tiroteo que dejó herida de bala a una joven de 17 años, por un \"conflicto vecinal\" La explosión le costó la vida al subinspector de la unidad canina Juan José Rodríguez , natural de León y de 65 años, así como al perro, y dejó herido de gravedad a un especialista de los Tedax que perdió la visión del ojo izquierdo pero que se encuentra fuera de peligro tras ser intervenido quirúrgicamente. La mujer del presunto autor, que fue arrestada de forma preventiva durante las primeras pesquisas , quedó el jueves en libertad sin medidas cautelares por decisión judicial, aunque permanecerá unida a la causa.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Muere un motorista sin casco en un accidente de tráfico en Eivissa (Baleares)",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/motorista-fallece-accidente-trafico-palma-1tna-1tps_4465337/",
+   "publicada": "2026-11-15T10:11+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "La víctima sufrió lesiones incompatibles con la vida y los equipos del SAMU 061 solo pudieron confirmar el deceso en el lugar",
+   "texto": "Muere un motorista sin casco en un accidente de tráfico en Eivissa (Baleares)\nLa víctima sufrió lesiones incompatibles con la vida y los equipos del SAMU 061 solo pudieron confirmar el deceso en el lugar\nUn motorista de 75 años ha muerto este domingo en un siniestro de tráfico mientras circulaba sin casco por la EI-20, a la altura de la rotonda d'en Mateu.\nEl suceso tuvo lugar en torno a las 01.45 horas, en el kilómetro 1 de la citada carretera, momento en el que el SAMU 061 recibió el aviso de un accidente con un único motorista implicado.\nSegún el SAMU 061, se activaron dos ambulancias —una de soporte vital básico y otra de soporte vital avanzado—, pero a su llegada los equipos sanitarios solo pudieron confirmar el fallecimiento, ya que el hombre presentaba lesiones incompatibles con la vida.\nUn motorista de 75 años ha muerto este domingo en un siniestro de tráfico mientras circulaba sin casco por la EI-20, a la altura de la rotonda d'en Mateu.",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Canarias bate su récord de llegadas en un día con 1.580 inmigrantes y Clavijo avisa: \"El Hierro no puede esperar\"",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/salvamento-maritimo-migrantes-tenerife-embarcaciones-irregulares-1tna-1tps_4465328/",
+   "publicada": "2026-11-15T09:56+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El presidente canario exige a Interior, Política Territorial e Inclusión que activen sin demora las medidas pactadas el martes, mientras siguen los rescates y Torres se desplaza a La Restinga",
+   "texto": "Canarias ha vivido este sábado la jornada con más llegadas de inmigrantes de su historia de la ruta atlántica. El desembarco de un cayuco con 92 personas en la isla de El Hierro a las 23.07 horas ha elevado el balance a 1.580 personas en 15 embarcaciones , según el recuento provisional de EFE con datos de Salvamento Marítimo, por encima de las 1.461 del 7 de noviembre de 2020. El presidente de Canarias, Fernando Clavijo , ha reclamado este domingo en X una \" respuesta inmediata del Estado \". \"El Hierro no puede esperar\", ha dicho. Trece de esos cayucos, con 1.327 ocupantes , han llegado a El Hierro; otro, con 203 personas, ha desembarcado en Arguineguín (Gran Canaria), y un tercero, con 50, en Los Cristianos (Tenerife). Entre los recién llegados figuran al menos 120 mujeres y 173 menores . El grupo más numeroso, de 240 personas de Senegal, Gambia y Guinea, había zarpado seis días antes de Gunjur, en Gambia. Seis embarcaciones de Salvamento Marítimo y dos patrulleras de la Guardia Civil han sostenido el operativo. Clavijo ha contactado con los ministros del Interior, Fernando Grande-Marlaska; de Política Territorial, Ángel Víctor Torres, y de Inclusión, Elma Saiz, para que acelere \"sin más demoras\" las medidas extraordinarias pactadas el martes. \"Necesitamos más efectivos, más recursos para la atención sanitaria y las emergencias, y derivaciones ágiles que alivien la presión sobre la isla y sus profesionales\", ha escrito. Esa presión recae sobre una isla de 12.000 vecinos con un solo hospital de 31 camas , en plena campaña de las generales del 29 de noviembre. Más de 80 cayucos en noviembre Los rescates han continuado este domingo. Los 79 ocupantes de un cayuco procedente de Senegal han desembarcado en La Restinga a las 02.35 horas, auxiliados por la Salvamar Menkalinan, y la incorporación de la Guardamar Polimnia ha elevado a diez las embarcaciones de rescate que operan en la zona este fin de semana. Torres, que preside la Comisión Interministerial de Inmigración, se ha desplazado a la isla para visitar ese puerto, adonde han llegado más de 80 cayucos desde el 1 de noviembre. Son ya más que las 66 embarcaciones que la isla recibió entre enero y octubre. El Cabildo de El Hierro declaró el 6 de noviembre la emergencia social, tras acoger a más de 8.000 personas en cinco semanas, y el Centro de Atención Temporal de Extranjeros (CATE) de San Andrés albergaba el sábado a 317 personas pendientes de traslado. Ya el lunes 9, los sindicatos policiales alertaron de agentes desbordados por el ritmo de llegadas. La crisis llegó el martes 10 a la Moncloa. Pedro Sánchez se comprometió con Clavijo a convocar de urgencia la Comisión Interministerial en una llamada el sábado 7, y la reunión, presidida por Torres con ocho ministros y con la presencia de Clavijo y del presidente del Cabildo, Alpidio Armas, terminó con la declaración de la emergencia migratoria en Canarias. El Estado comprometió 15,18 millones adicionales para plazas en centros estatales y traslados, un millón más para la atención sanitaria de Cruz Roja y una nueva guardamar, la Calíope. 31 camas de hospital, 12.000 vecinos, 9.000 inmigrantes: dentro del polvorín migratorio de El Hierro Alfredo Herrera Sánchez Los fallecidos se entierran sin apenas identificación y los cayucos se amontonan entre el puerto y los puntos de gestión de desechos. El hospital amplía la capacidad poniendo camas en un pasillo y en el salón de actos Clavijo salió de aquella reunión con este balance: \"De los ocho puntos, los ocho han sido acogidos por el Gobierno de España\". Entre ellos, más policías y guardias civiles, intérpretes, otra embarcación de Salvamento Marítimo, derivaciones más rápidas, guaguas para los traslados y ayudas para los sectores afectados de La Restinga. Pero ni la nota de la Moncloa ni la del Gobierno canario fijan plazos para ejecutarlas. \"No podemos permitir que los tiempos administrativos retrasen una respuesta que El Hierro necesita hoy\", ha insistido este domingo. Las cifras oficiales dan la medida del repunte. Entre el 1 y el 10 de noviembre llegaron al archipiélago 7.432 personas , según el Gobierno de Canarias, cuando Interior había contabilizado 13.327 en los diez primeros meses del año. El ministerio prevé que hasta 35.000 inmigrantes lleguen a Canarias en 2026 , uno de los peores ejercicios de la serie, y las previsiones no contemplan un descenso hasta diciembre, cuando cambian las condiciones del mar en la ruta, según ha publicado ElConfidencial. Clavijo, que el miércoles se reunió con el comisario europeo de Interior y Migración, Magnus Brunner , para reclamar medidas extraordinarias en la frontera atlántica, tiene previsto hablar este lunes con Torres para revisar los plazos y las actuaciones comprometidos. Su mensaje de este domingo terminaba con una advertencia: \"El Estado debe actuar con la urgencia que exige esta emergencia\".",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Herido un hombre de 30 años por arma blanca en una agresión en León",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/joven-herido-arma-blanca-leon-1tna-1tps_4465327/",
+   "publicada": "2026-11-15T09:55+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El suceso ocurrió de madrugada en la calle Platerías y movilizó a los servicios de emergencia, que trasladaron al afectado al Complejo Asistencial de León",
+   "texto": "Herido un hombre de 30 años por arma blanca en una agresión en León\nEl suceso ocurrió de madrugada en la calle Platerías y movilizó a los servicios de emergencia, que trasladaron al afectado al Complejo Asistencial de León\nUn varón de alrededor de 30 años ha resultado herido por arma blanca en la mañana de este domingo tras una agresión registrada en la calle Platerías de León, según el 112 Castilla y León consultado por Europa Press.\nEl aviso se produjo pocos minutos antes de las 5.49 horas, cuando la sala de emergencias recibió una llamada de la Policía Local solicitando asistencia para un hombre atacado en la citada vía que presentaba un sangrado profuso por una herida de arma blanca.\nEl centro de emergencias 112 comunicó el incidente al Cuerpo Nacional de Policía, a la Policía Local de León y a Emergencias Sanitarias - Sacyl, que movilizó una UVI móvil hasta el lugar.\nLa víctima, un varón de unos 30 años, fue evacuada en UVI móvil al Complejo Asistencial de León.\nUn varón de alrededor de 30 años ha resultado herido por arma blanca en la mañana de este domingo tras una agresión registrada en la calle Platerías de León, según el 112 Castilla y León consultado por Europa Press.\n- Herida una mujer agredida con arma blanca por un hombre, ya detenido, en Hellín (Albacete) EFE\n- Dos hombres resultan heridos por arma blanca durante una pelea en plena calle en Almansa Europa Press\n- Herido muy grave un hombre de 30 años tras sufrir varias lesiones por arma blanca en Villaverde Europa Press",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "Cae una banda que robó artículos valorados en 400.000 euros en una joyería de Torrijos durante el despliegue policial por el accidente de Urda",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/guardia-civil-detiene-robo-joyeria-1tna-1tps_4465309/",
+   "publicada": "2026-11-15T08:56+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "La Guardia Civil detiene a seis personas, entre ellas un menor, tras seguir con un helicóptero el coche de la huida; cuatro de ellas ingresan en prisión",
+   "texto": "La Guardia Civil ha detenido a seis personas, tres hombres, dos mujeres y un menor de edad, como presuntos autores de un robo con violencia e intimidación en una joyería de Torrijos (Toledo) cometido el pasado 28 de octubre. El asalto se produjo en los momentos posteriores al accidente ferroviario de Urda, en la misma provincia, durante el despliegue de efectivos volcado en atender el choque entre un AVE de Renfe y un tren de Iryo , en el que murieron 69 personas . Tres individuos, con el rostro completamente cubierto y vestidos con monos de trabajo, accedieron al establecimiento y exhibieron un arma de fuego con la que amenazaron y agredieron a los propietarios, mientras se apoderaban de las joyas expuestas y de las que se encontraban en la caja fuerte. El valor de lo sustraído se estima entre 300.000 y 400.000 euros , según la Guardia Civil . Tras el asalto, los tres huyeron en un vehículo en el que les esperaba un cuarto integrante del grupo. Varios ciudadanos que presenciaron los hechos trataron de impedir la fuga y fueron amenazados de muerte por los asaltantes. La Guardia Civil desplegó de inmediato un dispositivo de búsqueda con efectivos de la Comandancia de Toledo, con especial intervención del Servicio Aéreo , cuyo helicóptero permitió seguir el vehículo. Las investigaciones permitieron localizar el turismo, que había sido robado días antes en una localidad de la Comunidad de Madrid, circulando por la autovía A-5. Los agentes lo siguieron hasta que abandonó la vía y se adentró en un camino rural, donde sus cuatro ocupantes lo dejaron y le prendieron fuego para intentar eliminar posibles vestigios del delito, antes de continuar la huida a pie campo a través. #OperacionesGC | Detenidas seis personas como autores de un atraco a una joyería de Torrijos (Toledo)Los autores cometieron el robo durante el despliegue de efectivos que se había volcado en atender el accidente ferroviario de Urda el pasado 28 de octubre.La actuación del Servicio Aéreo fue determinante para localizar y seguir el vehículo utilizado en la huida.Los asaltantes amenazaron y agredieron a los propietarios con un arma de fuego y sustrajeron joyas valoradas entre 300.000 y 400.000 euros.Cuatro de los seis detenidos han ingresado en prisión. — Guardia Civil (@guardiacivil) November 15, 2026 Los agentes interceptaron y detuvieron a los cuatro, todos ellos con antecedentes policiales . La investigación continuó para identificar al resto de los implicados, y el Grupo CERES localizó y detuvo en El Casar de Escalona (Toledo) a un hombre y una mujer, sorprendidos cuando transportaban en una mochila parte de las joyas sustraídas, valoradas en unos 60.000 euros. Cuatro de los detenidos han ingresado en prisión . A dos de ellos se les atribuye además la participación en un robo en un bingo de Madrid como parte de una organización criminal desmantelada en otra investigación paralela. \"Vestimenta\" o \"Joyerías bcn\": los subgrupos de Blocus para planificar el pillaje en Barcelona EFE Un informe policial revela cómo varios canales digitales coordinaron objetivos, horarios y rutas para saquear comercios de lujo durante los disturbios del 24 de octubre en la Ciudad Condal En la operación han participado efectivos de la Comandancia de Toledo, entre ellos la Unidad Orgánica de Policía Judicial , el Grupo CERES, los Equipos Territoriales de Policía Judicial de Torrijos y Talavera de la Reina, los Equipos ROCA de ambas localidades, patrullas de Seguridad Ciudadana y el Servicio Aéreo de la Guardia Civil.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "La Aemet avisa de que este domingo dejará lluvias persistentes en Galicia con rachas de viento de hasta 80 km/h en el oeste y suroeste",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/lluvias-viento-alertas-meteorologicas-galicia-1tna-1tps_4465293/",
+   "publicada": "2026-11-15T08:21+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Galicia mantendrá el nivel amarillo hasta las 17.00 por precipitaciones y oleaje, mientras el descenso térmico se extenderá a buena parte del país",
+   "texto": "Un frente atlántico cruzará este domingo la Península y dejará precipitaciones persistentes en la mitad occidental de Galicia , con episodios locales de tormenta y posibilidad de que sean intensas. Además, se esperan rachas de viento muy fuertes del oeste y suroeste en áreas gallegas, con valores de hasta 80 kilómetros por hora, así como en la cordillera Cantábrica y, de forma puntual, en el interior de Cantabria y el alto Ebro , según la Agencia Estatal de Meteorología (Aemet). En materia de avisos, Galicia será la única comunidad con alertas operativas. Seguirá activo hasta las 17.00 horas el nivel amarillo por precipitaciones, viento y mala mar . Predominarán los cielos nubosos o cubiertos en gran parte del país, salvo en el área mediterránea , donde la nubosidad será menor o el cielo quedará despejado. Las lluvias vinculadas al frente afectarán a la mitad noroeste peninsular y también podrán darse en puntos de las Béticas. Los mayores acumulados se concentrarán en el oeste de Galicia, además de zonas de montaña del tercio norte y el sector occidental del Sistema Central. La cota de nieve se situará por encima de los 2.000 metros. La borrasca Bruna dejará este lunes lluvias fuertes en el oeste peninsular y rachas muy fuertes de viento Europa Press Andalucía afronta lluvias intensas y rachas de hasta 80 km/h, mientras Galicia, Extremadura y el centro peninsular se preparan para una jornada complicada En Baleares se prevén cielos poco nubosos o con intervalos de nubes altas, sin descartar alguna llovizna al final de la jornada. En Canarias habrá intervalos nubosos y posibilidad de precipitaciones aisladas en las islas de mayor relieve. Se esperan brumas y nieblas en amplias zonas de la vertiente atlántica y del nordeste peninsular, persistentes en áreas montañosas. Las temperaturas máximas descenderán ligeramente en la mayor parte de la Península, con un retroceso más notable en el valle del Ebro , y se mantendrán sin cambios en los archipiélagos. Las mínimas bajarán de forma generalizada, especialmente en los tercios sur y este, con heladas débiles en cotas altas de los Pirineos . Llega una masa de aire frío con fuertes lluvias y tormentas a España y la Aemet avisa: hasta -5 ºC y estas serán las zonas más afectadas El Confidencial Los termómetros se desplomarán en buena parte del país, mientras la inestabilidad se concentrará en el Mediterráneo y Canarias antes de extenderse al noroeste Entre las capitales de provincia, las máximas más elevadas se registrarán en Alicante y Murcia (24 grados) y en Málaga y Melilla (23). Las más bajas corresponderán a Burgos (12) y a Madrid , Cuenca, Guadalajara , Palencia, Salamanca, Segovia y Ávila (13). En cuanto a las mínimas, los valores más fríos se esperan en Ávila (5 grados) y en León, Teruel (6) y otras capitales de la meseta. El viento soplará del oeste y suroeste en la Península y Baleares , con intensidad moderada en el interior y el norte peninsular, y rachas fuertes en los litorales de Galicia y del Cantábrico. En Canarias, el alisio será flojo o moderado.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "\"Vestimenta\" o \"Joyerías bcn\": los subgrupos de Blocus para planificar el pillaje en Barcelona",
+   "enlace": "https://www.elconfidencial.com/espana/2026-11-15/blocus-chats-organizaron-saqueos-barcelona-1tna-1tps_4465285/",
+   "publicada": "2026-11-15T08:15+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Un informe policial revela cómo varios canales digitales coordinaron objetivos, horarios y rutas para saquear comercios de lujo durante los disturbios del 24 de octubre en la Ciudad Condal",
+   "texto": "El denominado fenómeno Blocus orquestó robos en Barcelona mediante una red de chats , con subgrupos temáticos como \"General\", \"Vestimenta\", \"Indispensables\" o \"Joyerías bcn\", según los Mossos d'Esquadra . La policía autonómica ha analizado desde dentro cómo se coordinaron para sustraer artículos de alto valor aprovechando el desorden. Un informe de la Comisaría General de Información de los Mossos, al que ha tenido acceso EFE y que accedió a varios de estos canales —en su mayoría ya inactivos—, concluye que dichos chats funcionaron como un \" espacio virtual de coordinación \" entre personas interesadas en participar en \" actuaciones de pillaje y aprovechamiento criminal \" durante las protestas de Blocus del 24 de octubre. Los Mossos sostienen en el documento, remitido al juzgado que investiga a los impulsores de estos chats, que la planificación y organización de la protesta se articuló en estos grupos con la intención de provocar \" grandes incidencias \" en Barcelona y beneficiarse del contexto para saquear comercios y sustraer objetos de valor \"con impunidad y gracias a la protección del grupo\". ¿Quién está detrás de Blocus? La plataforma anónima investigada como presunta autora del \"ataque\" en Barcelona José Medrano El Gobierno y la oposición cruzan acusaciones mientras los analistas apuntan a tácticas de 'terrorismo en enjambre' e injerencias externas Instrucciones logísticas y puntos de encuentro En los días previos al 24 de octubre circularon indicaciones logísticas , localizaciones para reunirse, datos sobre despliegues policiales y pautas operativas destinadas a explotar los disturbios para cometer pillajes en tiendas de lujo . La primera detección policial se produjo el 21 de octubre, cuando apareció un perfil de TikTok con el usuario @manifestaciones.bcn que difundía el cartel \" Blocus día 24 de octubre \" y un código QR enlazado al grupo de WhatsApp \"Manifestaciones BCN\", creado el día anterior y con 661 integrantes. Los Mossos identifican a 230 personas más por las convocatorias de Blocus tras los disturbios de Barcelona EFE La policía catalana ha identificado a 230 personas en varias convocatorias, incluida una en Granollers, mientras rastrea nuevas movilizaciones en la comunidad catalana De forma paralela, otro perfil de TikTok difundió el mismo cartel con un código QR que dirigía al grupo de WhatsApp \"Manifestación sin permiso\", un canal público al que accedió un agente de los Mossos , que logró extraer su contenido. El área de Inteligencia de los Mossos determinó que, a partir del grupo \"Manifestación sin permiso\", se configuró una comunidad con varios subgrupos temáticos —\"General\", \"Vestimenta\" e \"Indispensables\"— que sirvieron para la \" preparación previa \" de quienes participaron en los altercados. Desde ese chat se accedía también al grupo de WhatsApp \" Joyerías bcn 24 de octubre \", inicialmente con 64 integrantes, donde se intercambió información sobre posibles objetivos comerciales susceptibles de sufrir pillajes aprovechando los desórdenes previstos. El objetivo: joyerías y tiendas de lujo Según detallan los Mossos, que también se infiltraron en ese canal, se mencionaron de forma recurrente joyerías , boutiques de las marcas Louis Vuitton y Gucci , establecimientos tecnológicos como Apple Store y comercios de electrónica y equipamiento deportivo, entre ellos Mediamarkt , Nike, JD Sports y Foot Locker. El informe subraya que la finalidad principal de ese grupo no era la participación en la convocatoria del 24 de octubre con carácter reivindicativo, sino el \"aprovechamiento\" de la concentración multitudinaria y de los eventuales desórdenes públicos para \"ejecutar acciones de pillaje contra establecimientos comerciales \" en el centro de Barcelona. El balance de detenidos por actividades relacionadas con 'Blocus' asciende a 18 en siete ciudades, la mayoría menores Europa Press Los integrantes del entramado se valían de redes sociales y canales de comunicación digitales para fijar objetivos, señalar lugares de actuación e incitar al uso de armas Horarios, desplazamiento y almacenaje del botín En este chat se llegó a perfilar la selección de comercios susceptibles de ser saqueados , el valor económico de los objetos a sustraer, la identificación de joyerías, tiendas de lujo y tecnológicas como \" objetivos prioritarios \" y los tramos horarios más favorables para materializar los robos. También se compartieron pautas para complicar la identificación policial , sortear controles antes, durante y después de los hechos, organizar desplazamientos, guardar y ocultar el material sustraído y verificar previamente los objetivos comerciales para comprobar sus medidas de protección. Tras el caos del 24 de octubre , varios usuarios impulsaron una nueva llamada en Barcelona para el 31 de octubre a través de distintos canales de Telegram , que han sido cerrados. Ese día, con el centro de la ciudad blindado por los Mossos, no se registraron incidentes . Desde entonces, Blocus apenas ha mostrado actividad en redes sociales, según la policía catalana.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "El Confidencial",
+   "bloque": "España",
+   "titulo": "El Consejo de Estado cuestiona la \"prioridad nacional\" de Valencia y augura un pulso legal si PP y Vox la aplican tras el 29-N",
+   "enlace": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-11-15/consejo-estado-prioridad-nacional-valencia-pulso-pp-vox_4464966/",
+   "publicada": "2026-11-15T04:00+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El dictamen que sustenta un recurso contra la norma valenciana ante el Constitucional advierte de posible \"discriminación indirecta\" de extranjeros por las exigencias de arraigo y apunta a la falta de encaje en leyes orgánicas vigentes",
+   "texto": "La denominada \"prioridad nacional\" incorporada a las normativas autonómicas por los acuerdos entre el Partido Popular y Vox se encamina hacia un conflicto constitucional que puede prolongarse más allá de las elecciones generales del 29 de noviembre y condicionar los planes de aplicación en el ámbito estatal y su encaje en la legislación vigente si las urnas arrojan un cambio de Gobierno y abocan a una coalición compuesta por populares y voxistas. La Comisión Permanente del Consejo de Estado dictaminó el pasado 5 de noviembre, por unanimidad, que existen \"fundamentos jurídicos suficientes\" para elevar al Tribunal Constitucional un recurso contra varios preceptos de la ley de acompañamiento de los presupuestos de la Generalitat valenciana de 2026. La norma introdujo distintos criterios de arraigo para acceder a ayudas sociales, dentro del concepto de prioridad nacional que Vox defiende extender al conjunto de España en el reparto de subvenciones y el acceso a programas públicos. El dictamen, al que ha tenido acceso en exclusiva ElConfidencial, se elaboró a solicitud del Gobierno, en el marco de la propuesta de acuerdo del Consejo de Ministros para interponer un recurso de inconstitucionalidad contra determinados artículos de la norma valenciana, que finalmente fue aprobado el pasado martes . Pérez Llorca defiende que su prioridad nacional son las políticas sociales y anuncia un gasto récord en educación Víctor Romero. Valencia El presidente de la Generalitat defiende la estabilidad de su Consell después de arrancar el pacto presupuestario con Vox, reclama al Gobierno que ayude a resolver los problemas valencianos y da por hecho que Feijóo será presidente La ley recurrida modifica, a su vez, otros textos autonómicos reguladores de los servicios sociales, la renta valenciana de inclusión y la vivienda protegida. Bajo el \"principio de prioridad nacional\", establece que el acceso a esas prestaciones quede supeditado al \"arraigo real, duradero y verificable\" en la Comunitat Valenciana. Los integrantes de la Comisión Permanente del órgano consultivo que preside Carmen Calvo consideran que varias previsiones de la norma \"podrían entrar en conflicto con el orden constitucional\", entre otras razones, por interpretar que puede suponer una \"discriminación indirecta\" de los extranjeros. A su vez, señala la contradicción con varias leyes estatales, también orgánicas, lo que anticipa importantes cambios legislativos si Vox impone a los populares, en caso de sumar mayoría suficiente, el contenido del acuerdo ensayado en la Comunidad Valenciana y otras autonomías. El propio Alberto Núñez Feijóo admitía en su entrevista publicada el viernes en el pódcast de Jordi Wild que \"en estos momentos\" exigir el requisito de la nacionalidad para otorgar una ayuda social es \"ilegal\". En respuesta, el líder de Vox, Santiago Abascal , advirtió este sábado en un acto de campaña en Almería que su formación se presenta a las elecciones \"para hacer legal lo que hoy es ilegal\". El órgano consultivo advierte que la jurisprudencia constitucional prohíbe las discriminaciones encubiertas o indirectas La Comisión Permanente del Consejo de Estado que ha elaborado el dictamen reúne perfiles de distintas procedencias profesionales e ideológicas. La preside Carmen Calvo, exvicepresidenta primera del Gobierno y exministra de Cultura. Sus nombramientos se produjeron bajo gobiernos de distinto signo. Los hay vinculados a la etapa de José María Aznar, de José Luis Rodríguez Zapatero, Mariano Rajoy y Pedro Sánchez. Entre sus consejeros están Miguel Herrero y Rodríguez de Miñón, uno de los padres de la Constitución y antiguo diputado de UCD; Magdalena Valerio, exministra de Trabajo y expresidenta del Consejo de Estado; Paz Andrés Sáenz de Santa María, catedrática de Derecho Internacional; Fernando Ledesma, exministro de Justicia con Felipe González; Alberto Aza, diplomático y antiguo jefe de la Casa del Rey; José Luis Manzanares, magistrado y exvicepresidente del CGPJ; Enrique Alonso García, jurista y antiguo alto cargo de la Administración, y María Luisa Carcedo, exministra de Sanidad. La Secretaría General corresponde a Leopoldo Calvo-Sotelo Ibáñez-Martín, letrado mayor del Consejo. El dictamen identifica tres frentes principales de controversia. A saber: la aplicación transversal de la \"prioridad nacional\" a todos los servicios sociales, la exclusión de los extranjeros en situación irregular de determinadas prestaciones y el posible efecto discriminatorio de exigir periodos prolongados de arraigo para acceder a programas públicos. Sánchez asegura que \"España volverá a hacer historia en las urnas frenando la involución de Feijóo y Abascal\" A. Palacios Tras su primer día de campaña en Pamplona y La Rioja, el presidente del Gobierno y candidato socialista viaja a Palma para participar en un mitin junto a los candidatos socialistas por Baleares El primero afecta al artículo 132 de la ley valenciana, que convierte la prioridad nacional en un principio rector de carácter general y transversal para el acceso a \"todas las ayudas, subvenciones y prestaciones públicas\" del sistema autonómico de servicios sociales. El Consejo de Estado advierte de que ese sistema no gestiona únicamente prestaciones creadas por la Generalitat , sino también derechos reconocidos por leyes estatales, entre ellas las relativas a la protección de menores, la violencia de género y los derechos de las personas con discapacidad. El problema, según el dictamen, es que esos servicios estatales \" no se encuentran expresamente excluidos del ámbito de aplicación del principio de prioridad nacional \" y que la norma valenciana se proyecta \"sin excepción alguna\" sobre todos los gestionados por el sistema público. \"El carácter general y transversal con que se configura el principio de prioridad nacional puede así vulnerar la legislación y las competencias del Estado en los ámbitos mencionados\". El segundo punto de fricción se encuentra también en el artículo 132, en su apartado sexto. Por exigencia de Vox, la ley limita el acceso de las personas en situación administrativa irregular a las prestaciones y servicios sociales de carácter estructural y lo circunscribe a los supuestos de \"urgencia vital\". El Consejo de Estado contrapone esa previsión al artículo 14.3 de la Ley Orgánica de Extranjería , que reconoce que \"los extranjeros, cualquiera que sea su situación administrativa, tienen derecho a los servicios y prestaciones sociales básicas\". Ve incompatible la prioridad nacional con la ley de menores, violencia de género y derechos de discapacitados o extranjería La conclusión del órgano consultivo sobre este punto es que \"este derecho no se limita a los supuestos de urgencia vital previstos en la Ley valenciana 5/2026 , que, en este punto y por la razón indicada, contraviene la legislación estatal\". El tercer reparo se refiere a la exigencia de un arraigo \"duradero\" o \"prolongado\", presente en los artículos 43, 44 y 46, así como en los artículos 132 y 140. El Consejo de Estado subraya que la regulación valenciana no establece una diferencia expresa entre españoles y extranjeros . \"La regulación autonómica no introduce, de forma expresa o directa, una discriminación de los extranjeros respecto de los españoles\", admite. Pero a renglón seguido advierte que un requisito formalmente neutro puede producir efectos desiguales. La propuesta de recurso considera que la exigencia de arraigo constituye una \"discriminación indirecta\" sobre los extranjeros residentes en España , porque, pese a aplicarse a todos con independencia de su nacionalidad, concurre con menor frecuencia entre ese colectivo. El dictamen recoge expresamente ese argumento y recuerda que la jurisprudencia constitucional también prohíbe las discriminaciones encubiertas o indirectas cuando una medida aparentemente neutral provoca un impacto adverso sin justificación objetiva suficiente. Pérez Llorca saca adelante unos presupuestos para cinco meses tras asumir la prioridad nacional de Vox Víctor Romero. Valencia Populares y los voxistas aprueban las cuentas con un endurecimiento del acceso a las ayudas sociales y recortes a sindicatos y ONGs, y la perspectiva de una posible prórroga para 2027 que evite otra negociación La controversia no se limita, por tanto, a una eventual preferencia de los españoles sobre los extranjeros . Los requisitos de vinculación territorial pueden afectar también a ciudadanos españoles procedentes de otras comunidades autónomas , si bien PP y Vox pactaron enmiendas para extender los requisitos de empadronamientos al conjunto de España. Para la renta valenciana de inclusión, la ley exige tres años de empadronamiento continuado inmediatamente anteriores a la solicitud o diez años, continuados o interrumpidos, dentro de los 30 anteriores. El Consejo de Estado reconoce que otras comunidades autónomas contemplan periodos de arraigo o residencia para acceder a determinadas prestaciones y viviendas públicas. Los tres años requeridos para el acceso a la renta valenciana de inclusión se exigen también en el País Vasco y en las Islas Baleares ; los plazos de 5, 10 o 15 años para el acceso a vivienda protegida o pública ya existen en Canarias, Islas Baleares o Madrid , \"sin que la normativa de estas comunidades, ni la de otras que contienen plazos parecidos, haya sido puesta en cuestión ante el Tribunal Constitucional \". Pero advierte de la controversia legal de la exigencia de arraigo . \"No cabe duda, sin embargo, de que la exigencia de un periodo de arraigo o vinculación en una determinada comunidad autónoma para el acceso a ayudas, prestaciones o subvenciones públicas es una cuestión controvertida desde el punto de vista del principio constitucional de igualdad \", señala. Y añade que el principio de prioridad nacional de la ley valenciana, \"por los términos en que ha sido concebido (como un principio general y transversal del sistema autonómico de ayudas, subvenciones y prestaciones públicas), eleva de grado dicha controversia y aconseja su sometimiento al control de constitucionalidad de las leyes establecido en nuestro ordenamiento\". Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia Víctor Romero. Valencia El PP firma una enmienda a los presupuestos de la Generalitat que suprime en Emergencias 10.000 euros de la entidad humanitaria para elaborar el informe. Los populares aceptan poner la prioridad nacional de forma literal en la ley El dictamen delimita, además, los artículos sobre los que aprecia fundamentos jurídicos suficientes para recurrir: el 43.1, el 44.1 y el 46.1, relativos a vivienda; los apartados segundo, tercero, cuarto y sexto del artículo 132, sobre servicios sociales; y los apartados primero, segundo y tercero del artículo 140, relativos a la renta valenciana de inclusión .",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "The Objective",
+   "bloque": "España",
+   "titulo": "Muere Antonio Sabugueiro, creador de la San Silvestre Vallecana, a los 94 años",
+   "enlace": "https://theobjective.com/espana/madrid/2026-11-15/muere-antonio-sabugueiro-san-silvestre-vallecana/",
+   "publicada": "2026-11-15T15:04+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Antonio Sabugueiro, creador de la San Silvestre Vallecana, la carrera en la que participan cada 31 de diciembre por las calles de Madrid más de 40.000 […]",
+   "texto": "Antonio Sabugueiro, creador de la San Silvestre Vallecana , la carrera en la que participan cada 31 de diciembre por las calles de Madrid más de 40.000 personas , ha muerto este domingo a los 94 años, ha confirmado la organización de la prueba. «Hoy se me rompe el corazón al despedirme de Antonio Sabugueiro, mi creador y mi alma. Me diste la vida y convertiste cada 31 de diciembre en una emoción compartida. Seguirás conmigo en cada dorsal y cada zancada. Gracias por todo, Antonio. Tu San Silvestre Vallecana», se puede leer en el perfil oficial de X de la Nationale-Nederlanden San Silvestre Vallecana. Nacido en Orense el 26 de junio de 1932, Sabugueiro quedó vinculado para siempre con el barrio de Vallecas desde su llegada a Madrid. Fue directivo del Rayo Vallecano en la década de los sesenta, precisamente cuando surgió la idea, al calor de la ya desaparecida cafetería Bella Luz de la calle Monte Igueldo. Fue en 1964, con sus amigos Carlos Roa y Manolo Fernández, cuando decidió constituir una carrera para el día de Nochevieja, al estilo de la que se disputaba en São Paulo (Brasil). La primera edición, bajo la denominación Gran Premio de Vallecas, fue solo para corredores profesionales y participaron 57 hombres . Despedimos a Antonio Sabugueiro, creador de la San Silvestre Vallecana, una carrera que ha marcado el fin de año de Madrid desde hace 65 años y que, gracias a su impulso, se ha convertido en una de las grandes carreras internacionales en nuestra ciudad. DEP. El cariño de Madrid… pic.twitter.com/WeDWBO6iXz — José Luis Martínez-Almeida (@AlmeidaPP_) November 15, 2026 El segundo año, por sugerencia del periodista de MARCA José Luis Gilabert, se la bautizó como San Silvestre Vallecana al pasar del 27 al 31 de diciembre, día de San Silvestre. Con el tiempo y por iniciativa del comunicador Pepe Domingo Castaño, se abrió a la participación popular , siempre con final en el Estadio de Vallecas. En 1981 se constituyó por primera vez la categoría femenina, y en 2019 la carrera recibió por parte de World Athletics la Gold Race Running Label , el distintivo de calidad que se otorga a las carreras en carretera más importantes del mundo.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "CNN Portugal",
+   "bloque": "Portugal",
+   "titulo": "\"Isto não pode continuar a acontecer\": como os parceiros de militares ficam retidos em países estrangeiros após o divórcio",
+   "enlace": "https://cnnportugal.iol.pt/divorcio/militares-norte-americanos/isto-nao-pode-continuar-a-acontecer-como-os-parceiros-de-militares-ficam-retidos-em-paises-estrangeiros-apos-o-divorcio/20261115/6aed0fedd34e5a653d733230",
+   "publicada": "2026-11-15T15:00+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Ap&#xf3;s o div&#xf3;rcio, h&#xe1; fam&#xed;lias de militares norte-americanos que ficam impedidas de abandonar o pa&#xed;s onde estavam destacadas, separadas dos filhos e sem meios para regressar a casa. Esta investiga&#xe7;&#xe3;o da CNN revela o drama de quem fica preso em batalhas judiciais longe do seu pa&#xed;s",
+   "texto": "Após o divórcio, há famílias de militares norte-americanos que ficam impedidas de abandonar o país onde estavam destacadas, separadas dos filhos e sem meios para regressar a casa. Esta investigação da CNN revela o drama de quem fica preso em batalhas judiciais longe do seu país\nChristina Fuller é uma antiga parceira de um militar norte-americano que vive sem autorização de residência no sul de Espanha, onde uma disputa pela guarda do filho a mantém presa há vários anos. Quando a família chegou à região do Estreito de Gibraltar, por ordem das Forças Armadas dos Estados Unidos, o filho tinha dois anos. Agora, está prestes a completar dez.\nO casamento de Christina com um marinheiro da Marinha dos Estados Unidos, destacado para um contratorpedeiro equipado com mísseis guiados na Base Naval de Rota, desmoronou pouco depois de a família ter chegado, em 2019.\nQuando o marido pediu o divórcio, em 2021, um tribunal espanhol proibiu qualquer um dos progenitores de levar a criança para fora do país sem o consentimento do outro. No ano seguinte, a Marinha ordenou ao marido que regressasse aos Estados Unidos, enquanto o divórcio era finalizado e Christina recorria de uma decisão espanhola relativa à guarda do filho.\nAcabou por conseguir a guarda física exclusiva e direitos semelhantes aos da guarda legal nos Estados Unidos, mas continuou a precisar da autorização de um juiz ou do seu agora ex-marido para se mudar com o filho. Entretanto, o passaporte norte-americano da criança também tinha caducado, deixando-os retidos em Espanha.\nChristina conta que sustenta a família recorrendo a uma série de trabalhos ocasionais, numa espécie de desenrascanço. É uma “buscavida”, expressão que, explica, os espanhóis utilizam para descrever alguém que se desenrasca para sobreviver.\n“Nunca vim para Espanha com a intenção de fazer daqui a minha residência permanente”, disse à CNN. “Não quero continuar a sentir-me prisioneira noutro país simplesmente porque cumpri ordens militares e fui destacada para o estrangeiro.”\nQuando um casamento termina, os parceiros de militares que vivem no estrangeiro podem descobrir que ficaram retidos em países estrangeiros e sujeitos a decisões judiciais sobre a guarda dos filhos tomadas por tribunais locais - mesmo quando os envolvidos são cidadãos norte-americanos que se mudaram para o estrangeiro por ordem das Forças Armadas dos Estados Unidos. Os parceiros, já fragilizados financeiramente por anos de mudanças de residência, podem acabar obrigados a navegar por sistemas judiciais desconhecidos, contratar advogados em dois países e lutar simplesmente para conseguir levar os filhos para casa.\nOs parceiros que enfrentam situações deste género têm permanecido praticamente invisíveis para quase todos os círculos militares, incluindo para outras pessoas na mesma situação. Mas, em agosto, o problema ganhou visibilidade pública quando a mulher de um oficial do Corpo de Fuzileiros Navais se tornou viral nas redes sociais com um apelo, alertando que ela e os filhos poderiam ficar retidos indefinidamente na Alemanha.\nJamie Lenio afirmou que o seu casamento estava a terminar, em parte, porque o marido tinha tido um caso com uma superior hierárquica -uma general de uma estrela. Uma alegação confirmada por um relatório do inspetor-geral do Comando dos Estados Unidos para África, obtido pela CNN.\nEm menos de 48 horas, o vídeo tinha alcançado quase 500 mil visualizações, mais de 30 mil gostos e 2300 comentários.\nParceiros que enfrentavam circunstâncias semelhantes contactaram Lenio, dando origem a uma rede informal de mulheres e, pelo menos, um homem, que partilharam as suas histórias, também nas redes sociais, na esperança de conseguirem ajuda.\nPouco depois, as Forças Armadas ordenaram ao marido de Lenio que regressasse aos Estados Unidos, abrindo caminho para que Lenio e os filhos também pudessem regressar, antes de um tribunal alemão analisar o caso da família. No início deste mês, Lenio chegou ao sul da Califórnia com os filhos.\nQuando os tribunais estrangeiros assumem o controlo\nA CNN falou com mais de uma dúzia de parceiros, atuais ou antigos, de militares no ativo, funcionários do Departamento de Defesa ou trabalhadores contratados pelo Governo dos Estados Unidos. Todos afirmaram que estavam a viver no estrangeiro contra a sua vontade com os filhos - ou que tinham regressado aos Estados Unidos sem eles - depois do fim dos seus casamentos. Todos os parceiros entrevistados pela CNN, à exceção de um, eram mulheres.\nTodos descreveram dificuldades financeiras devastadoras enquanto travavam as suas batalhas judiciais no estrangeiro. Muitos acumularam dívidas avultadas, ficaram com o historial de crédito arruinado ou passaram a depender de bancos alimentares para conseguir alimentar os filhos. Vários disseram que chegaram a saltar refeições para conseguirem sobreviver.\n“É de partir o coração, mas, infelizmente, esta é a realidade”, afirma Gilbert “Joey” Comley, antigo advogado militar do Exército norte-americano, já reformado, que representou militares e veteranos em processos de guarda de menores envolvendo tribunais estrangeiros. “Alguém tem sempre de ter jurisdição sobre a guarda das crianças.”\nQuando uma criança passa a estar integrada na vida quotidiana de outro país, os tribunais podem considerar esse país como a sua “residência habitual”, ao abrigo da Convenção da Haia de 1980 sobre os Aspetos Civis do Rapto Internacional de Crianças e da legislação norte-americana que a implementa.\nLegalmente, esse fator pode prevalecer sobre a nacionalidade da criança ou sobre o facto de a família se ter mudado apenas por motivos profissionais relacionados com as Forças Armadas, explica Comley.\nA CNN falou com parceiros de militares que vivem na Alemanha, em Espanha, no Reino Unido e no Japão. Todos manifestaram surpresa pelo facto de um tratado internacional pouco conhecido poder desempenhar um papel tão importante na guarda dos filhos durante e após um divórcio. Alguns disseram ter sido apanhados completamente desprevenidos pelo poder dos tribunais estrangeiros - independentemente do país onde se encontravam. Todos relataram ter recebido orientações incorretas ou contraditórias por parte de responsáveis militares norte-americanos.\nAntes de destacamentos ou missões no estrangeiro, as famílias militares ponderam frequentemente acontecimentos que podem mudar as suas vidas, incluindo a morte de um militar ou a doença de um parceiro, através de um Plano de Contingência Familiar estruturado.\nVários parceiros disseram desejar que as Forças Armadas tivessem fornecido às famílias mais informações, para que pudessem incluir um acordo sobre a forma como abordariam a guarda dos filhos caso ocorresse um divórcio no estrangeiro.\nEm resposta às perguntas da CNN sobre esta reportagem, os diferentes ramos das Forças Armadas começaram por remeter o órgão de comunicação social para o Pentágono, no que diz respeito às orientações fornecidas às famílias para lidarem com divórcios e processos de guarda de menores em tribunais estrangeiros. Um porta-voz do Pentágono remeteu depois a CNN novamente para os diferentes ramos das Forças Armadas, antes de destacar várias páginas do Military OneSource, um site financiado pelo Departamento de Defesa destinado a militares e às suas famílias. Nenhuma das ligações disponibilizadas fornece apoio direto para lidar com divórcios ou processos de guarda de menores em sistemas jurídicos estrangeiros, o que reflete a escassez de informação oficial disponível para as famílias, que acabam por ter de se informar por conta própria no meio de uma crise.\nA Força Aérea destacou um artigo que mencionava o divórcio de militares no estrangeiro, mas que apenas referia que “pode ser mais complicado do que se o casal apresentasse o pedido num estado norte-americano. Um tribunal dos Estados Unidos poderá não reconhecer um divórcio decretado no estrangeiro, pelo que é preferível tratar do processo nos Estados Unidos”. O artigo abordava brevemente questões relacionadas com bens materiais, mas não fazia qualquer referência à guarda dos filhos.\nA Marinha, à semelhança dos outros ramos das Forças Armadas, afirmou que não contabiliza quantas famílias estão envolvidas em processos de divórcio ou de guarda de menores em tribunais estrangeiros. No entanto, declarou que fornece sessões informativas antes das deslocações para o estrangeiro, de modo a “garantir que os militares e os seus dependentes compreendem claramente a jurisdição do país de acolhimento, as proteções legais e as responsabilidades administrativas durante o serviço no estrangeiro”.\nOs porta-vozes do Corpo de Fuzileiros Navais e da Força Aérea enumeraram vários recursos disponíveis para as famílias militares, incluindo serviços de assistência jurídica, mas com uma ressalva importante: para serem representadas em tribunal, as famílias teriam de contratar um advogado privado no país onde residem.\n\"Um pesadelo todos os dias\"\nNos vários casos analisados pela CNN, surgiu um padrão comum: o membro do casal com maiores rendimentos tinha interesse em permanecer no estrangeiro - fosse um militar próximo da reforma, que ambicionava conseguir um emprego como contratado das Forças Armadas, ou um funcionário civil ou trabalhador contratado que podia prolongar uma colocação, por vezes bastante lucrativa, muito depois do fim do casamento. Estas oportunidades profissionais garantem o estatuto legal necessário para trabalhar nos países de acolhimento.\nOs parceiros que ficavam retidos no estrangeiro - ou que sentiam que eram obrigados a partir sem os filhos - descreveram, sem exceção, processos de guarda de menores que favoreciam o parceiro com maiores rendimentos. Este tinha capacidade para pagar uma representação jurídica mais forte e argumentar que, por dispor de um rendimento mais estável, estava em melhores condições para cuidar das crianças.\n“Tudo isto fica muito caro”, explica Comley, porque encontrar uma solução justa exige contratar um advogado nos Estados Unidos e outro no país estrangeiro.\nPara muitos parceiros de militares, alcançar independência financeira é um desafio, sobretudo no estrangeiro, onde as oportunidades de emprego são ainda mais limitadas devido às restrições impostas pelos vistos relativamente aos locais onde podem trabalhar. As mudanças de residência a cada dois ou três anos dificultam a procura de emprego ou a manutenção de uma carreira profissional, obrigando-os a adaptar constantemente as suas vidas às exigências do serviço militar dos seus parceiros.\nEmbora metade dos parceiros de militares no ativo tenha, pelo menos, uma licenciatura, a taxa de desemprego entre os parceiros de militares é cerca de quatro vezes superior à da população civil, e o seu rendimento mediano é 42% inferior ao dos parceiros de civis, de acordo com uma análise de dados do Gabinete do Censo dos Estados Unidos realizada pelo Instituto D’Aniello para Veteranos e Famílias Militares da Universidade de Syracuse.\nNo estrangeiro, os obstáculos ao emprego multiplicam-se, uma vez que o estatuto legal de um parceiro depende da ligação ao militar destacado. Quando perde essa proteção, tem de encontrar outra justificação para permanecer e trabalhar no país enquanto luta pelos direitos de guarda dos filhos, um processo dispendioso.\n \n Enquanto os alemães tiverem jurisdição, não tenho qualquer esperança.\" - Jose ‘Trey’ Gonzalez, antigo parceiro de uma militar\nOs parceiros de militares que se divorciam em tribunais estrangeiros também podem perder o acesso a um importante bem do património conjugal: as pensões de reforma dos militares norte-americanos. Os tribunais estrangeiros podem decidir sobre o divórcio e a guarda dos filhos, mas, em geral, não têm competência para dividir essas pensões como faria um tribunal dos Estados Unidos. Isto deixa os parceiros com poucas alternativas caso o militar se recuse a partilhá-las voluntariamente.\nA batalha judicial desenrola-se frequentemente ao mesmo tempo que o parceiro que acompanhou o militar perde apoios práticos que tornavam possível a vida no estrangeiro: acesso à base militar, onde podia fazer compras a preços acessíveis, utilização de caixas de correio e acesso a contas bancárias ou automóveis associados ao militar responsável pelo seu destacamento. Vários dos entrevistados pela CNN acumularam dívidas significativas nos cartões de crédito; um deles contou que dependia de um banco alimentar e de vales para compras em lojas de artigos em segunda mão disponibilizados pelas Forças Armadas.\nPais separados dos filhos\nO casamento de Jose “Trey” Gonzalez começou a deteriorar-se em 2023, pouco depois de a família se ter mudado para a Alemanha devido ao trabalho da mulher numa empresa contratada pelo Departamento de Defesa. Enquanto um tribunal alemão analisava a guarda do filho, atualmente com cinco anos, Gonzalez perdeu o estatuto de residência associado ao da mulher e abandonou a Alemanha. Viu o filho brevemente durante uma audiência judicial e uma visita a Estugarda, em 2024, mas afirma que não voltou a estar com ele desde então.\n“Senti que tinha de haver alguma forma de contornar a situação, porque somos todos americanos”, disse Gonzalez à CNN, a partir da Florida.\n“Tem sido terrível. É um pesadelo todos os dias. Enquanto os alemães tiverem jurisdição, não tenho qualquer esperança.”\nEm Inglaterra, Brandylyn Cohea, parceira de um militar da Força Aérea, está dividida entre ficar ou partir, na sequência do pedido de divórcio apresentado pelo marido no Reino Unido.\nReceia ser deportada sem o filho adolescente caso perca o estatuto que lhe permite trabalhar e viver no país. Ao mesmo tempo, teme que um tribunal possa tomar uma decisão desfavorável se abandonar o Reino Unido. A Força Aérea chegou a autorizar temporariamente o regresso dela e do filho aos Estados Unidos, mas teriam de partir sem os dois adorados golden retrievers da família, que tinham vindo dos Estados Unidos.\nConta que trabalha até 55 horas por semana, enquanto cria os filhos sozinha, recebendo 1300 dólares mensais em pensão de alimentos e apoio financeiro do ex-marido.\n“É realmente difícil assistir à partida de outras famílias”, afirma, emocionada, “porque eu quero voltar para casa.”\nUm apelo viral - e uma intervenção rápida\nDesde que a história de Lenio ganhou dimensão nacional, os parceiros de militares que enfrentam divórcios têm recorrido cada vez mais à pressão pública como única forma de conseguir uma intervenção.\nVários tornaram públicas as suas histórias, alguns através de vídeos nas redes sociais. O apelo de Lenio, que se tornou viral em agosto, chegou rapidamente aos mais altos responsáveis do Departamento da Marinha.\nO secretário interino da Marinha, Hung Cao, responsável também pelo Corpo de Fuzileiros Navais e recentemente nomeado pelo presidente Donald Trump para ocupar definitivamente o cargo, respondeu publicamente: “Ouvimos a sua mensagem alto e bom som. Você e a sua família estarão em casa em breve.”\nNo mês seguinte, aproximadamente na altura da nomeação de Cao, o Corpo de Fuzileiros Navais emitiu novas ordens de destacamento para o marido de Lenio, e ela regressou aos Estados Unidos com os filhos.\nLenio contou à CNN que o vídeo lhe permitiu regressar a casa. O Corpo de Fuzileiros Navais afirmou que a transferência já estava em curso antes de ela tornar a situação pública, tendo comunicado à CNN que já tinha concluído que a situação “seria melhor resolvida nos Estados Unidos”.\nMas, pouco depois, o Corpo de Fuzileiros Navais e a Marinha chegaram a conclusões semelhantes nos casos de outras famílias.\nVárias fontes - parceiros, militares e antigos responsáveis das Forças Armadas familiarizados com decisões relativas ao pessoal - afirmaram que o vídeo de Lenio foi um claro catalisador.\nDurante a investigação da CNN, outra família do Corpo de Fuzileiros Navais que enfrentava um divórcio na Alemanha também recebeu ordens que lhe permitiram regressar aos Estados Unidos, depois de a CNN ter questionado o Pentágono sobre a sua situação.\nCorina Acevedo, mãe de quatro filhos e mulher de um militar sénior do Corpo de Fuzileiros Navais, explica que o seu processo só começou a avançar depois da divulgação do vídeo de Lenio. Anteriormente, um tribunal alemão tinha-lhe negado a autorização necessária para regressar aos Estados Unidos com os filhos. O Corpo de Fuzileiros Navais recusou comentar o seu caso, mas afirmou que as circunstâncias e os prazos de cada família são diferentes.\n\"Ficamos presos no sistema judicial alemão\"\nAs decisões dos tribunais de família estrangeiros também podem sobrepor-se a determinadas decisões das Forças Armadas norte-americanas.\nO casamento de Ashlee Gamble com um marinheiro da Marinha terminou no verão de 2025, quando o casal vivia perto de Kaiserslautern, na Alemanha, com os dois filhos. Depois de Gamble ter pedido, sem sucesso, o direito de decidir onde os filhos viveriam - um direito conhecido na Alemanha como Aufenthaltsbestimmungsrecht -, um tribunal alemão estabeleceu um regime de guarda partilhada.\n“Ficamos presos no sistema judicial alemão. E tudo está em alemão”, conta.\nNo ano passado, apesar da oposição do marido, as Forças Armadas aprovaram um pedido de Gamble para regressar aos Estados Unidos com os dois filhos. No entanto, o tribunal alemão tomou a medida invulgar de conceder a Ashlee o Aufenthaltsbestimmungsrecht relativamente à filha, atribuindo ao pai esse mesmo direito em relação ao filho. Para Ashlee, regressar a casa significaria deixar o filho na Alemanha.\nO jornal Stars and Stripes noticiou pela primeira vez o caso da família no início deste mês. Dois dias depois, a assessora jurídica de Gamble, nomeada pela Marinha, informou-a de que a instituição tinha emitido ordens para transferir o marido e a família de volta para os Estados Unidos, mais de um ano depois de um assistente social clínico disponibilizado pelas Forças Armadas ter recomendado, pela primeira vez, que Gamble regressasse com os dois filhos.\nO marido de Gamble afirma que as ordens perturbaram profundamente a vida da família, a meio do ano letivo dos filhos, e questionou a razão pela qual a Marinha decidiu intervir numa questão familiar privada.\n“Penso que as questões de natureza civil devem ser tratadas pelos tribunais civis e não envolver as Forças Armadas”, disse à CNN, apontando aquilo que considera serem vantagens para os parceiros de militares no sistema judicial alemão.\n“Vai custar-lhes mais nos Estados Unidos porque, aqui na Alemanha, se não conseguirem arranjar emprego, têm acesso a um advogado gratuito para um processo civil. Onde é que vão conseguir um advogado de divórcio gratuito nos Estados Unidos?”\nGamble, porém, afirma que o advogado que lhe foi atribuído pelo tribunal está a tratar de muitos outros processos além do seu e que está aliviada por poder deixar a Alemanha e regressar aos Estados Unidos.\n“Penso que as famílias militares não têm nada que fazer nos tribunais alemães, a menos que alguém tenha cometido um crime. Mas, quando se trata da guarda dos filhos, isto não pode continuar a acontecer.”\nAinda assim, a decisão do tribunal alemão continuará a ser aplicável mesmo depois de a família regressar aos Estados Unidos.\nSem uma alteração ao tratado ou uma política transversal a todo o Pentágono, os comandos militares e as empresas contratadas mantêm uma ampla margem de decisão quanto à possibilidade de uma família regressar a casa para tratar do divórcio e da guarda dos filhos num tribunal norte-americano. As famílias descreveram situações em que encontraram responsáveis mal informados ou pouco dispostos a intervir, mas também outros que se mostraram disponíveis e prestáveis, embora continuassem sem poder impor uma solução depois de um tribunal estrangeiro assumir o controlo do processo.\nOs esforços para chamar a atenção para este problema específico coincidiram com uma nova e ampla atenção política às dificuldades das famílias militares, no contexto da guerra com o Irão e dos primeiros passos da Comissão para os Cônjuges de Militares, criada por Donald Trump e lidera",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "Notícias ao Minuto",
+   "bloque": "Portugal",
+   "titulo": "PM de Cabo Verde defende que próximo Presidente seja árbitro do sistema",
+   "enlace": "https://www.noticiasaominuto.com/mundo/3084470/pm-de-cabo-verde-defende-que-proximo-presidente-seja-arbitro-do-sistema#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+   "publicada": "2026-11-15T15:04+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "",
+   "texto": "O primeiro-ministro cabo-verdiano, Francisco Carvalho, defendeu que o Presidente da República a ser hoje eleito deve exercer o papel de árbitro do sistema político. \"Esperamos que o próximo Presidente seja um árbitro do sistema. Precisamos de alguém que tenha experiência e consiga exercer esse papel\", afirmou, após votar na Escola Paz e Amor, na zona de Vila Nova, na cidade da Praia. O primeiro-ministro considerou que o chefe de Estado deve ter capacidade de aconselhar e analisar as decisões dos diferentes órgãos de poder. \"Não podemos pretender que o Presidente decida apenas em consonância, de acordo com o que pensamos. Isso não é bom. Quem acredita na democracia e na liberdade de expressão convive bem com a avaliação e a arbitragem que os outros fazem\", declarou. Francisco Carvalho apelou ainda à participação dos eleitores. \"Houve tempos em que as pessoas não tinham direito ao voto em muitos países. Votar é uma oportunidade extraordinária de exercer a nossa escolha\", afirmou. As eleições de hoje decorrem em cerca de mil mesas de voto nas ilhas, onde estarão abertas até às 18:00 (19:00 em Lisboa) e em mais de 200 no estrangeiro. São chamados às urnas cerca de 419.400 eleitores, dos quais 76.400 no estrangeiro. A votação nas ilhas é acompanhada por 150 observadores de seis organizações internacionais. Há seis nomes no boletim de voto. José Maria Neves, atual Presidente da República, tenta a reeleição para um segundo mandato e é apoiado pelo Partido Africano da Independência de Cabo Verde (PAICV, poder). A ex-ministra da Justiça, Joana Rosa, conta com o apoio do Movimento para a Democracia (MpD, oposição) e é a primeira mulher a candidatar-se a eleições presidenciais. O boletim tem outros quatro candidatos sem apoio dos dois principais partidos: Gilson Alves, médico, Casimiro Pina, jurista, Antero Tavares, juiz, e Loisito Sousa, docente. Depois do fecho das urnas, a Direção Geral de Apoio ao Processo Eleitoral (DGAPE) tem um portal para divulgação dos resultados provisórios, à medida que os votos forem contados, no endereço eleicoes.cv. Leia Também: Diáspora cabo-verdiana conta 67 mesas de voto em Portugal",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "Notícias ao Minuto",
+   "bloque": "Portugal",
+   "titulo": "Incêndio numa casa em Pombal deixa duas pessoas desalojadas",
+   "enlace": "https://www.noticiasaominuto.com/pais/3084468/incendio-em-pombal-deixa-duas-pessoas-desalojadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+   "publicada": "2026-11-15T15:03+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "",
+   "texto": "Um incêndio consumiu hoje, parcialmente, uma casa na freguesia de Guia, concelho de Pombal, implicando que os dois residentes tivessem de ser alojados em casa de familiares, revelou à Lusa fonte da proteção civil.\nSegundo a fonte do Comando Sub-regional de Emergência e Proteção Civil da Região de Leiria, o alerta foi dado pelas 11h19, tendo o fogo ficado circunscrito a um quarto da habitação.\nAinda assim, continuou a fonte, as duas pessoas que residiam na casa tiveram de ser alojadas na residência de familiares.\nO combate às chamas esteve a cargo dos Bombeiros de Pombal, enquanto a GNR local tomou conta da ocorrência, disse.\nLeia Também: Incêndio em armazém em Campo Maior destrói equipamento elétrico",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "Diário de Notícias",
+   "bloque": "Portugal",
+   "titulo": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
+   "enlace": "https://www.dn.pt/internacional/marinha-britnica-reporta-ataque-a-petroleiro-perto-do-estreito-de-ormuz",
+   "publicada": "2026-11-15T14:49+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "",
+   "texto": "Um petroleiro foi atacado este domingo, 15 de novembro, num incidente não identificado perto de Khasab, a cidade de Omã mais próxima do Estreito de Ormuz, anunciou a Organização de Operações Comerciais Marítimas da Marinha Britânica (UKMTO). A organização adiantou ter recebido um relatório das autoridades marítimas indianas sobre \"um ataque a um petroleiro enquanto transitava pelo Golfo Pérsico em direção a leste”, antes de entrar no Estreito de Ormuz. \"Foi confirmado que todos os tripulantes estão em segurança. A avaliação dos danos e do impacto ambiental é desconhecida\", declarou a UKMTO. Até ao momento, Omã, o país mais próximo do local do incidente, não se pronunciou sobre o ataque. O número de ataques e incidentes contra petroleiros e navios mercantes tem vindo a aumentar desde meados de setembro, especialmente no lado omanita do estreito. Esta escalada é uma resposta à disputa pelo controlo do Estreito de Ormuz, após o início da guerra entre os Estados Unidos e o Irão em 28 de fevereiro. Desde então, Teerão mantém o bloqueio do estreito e ameaça atacar os navios que utilizem rotas alternativas perto de Omã, promovidas por Washington em vez dos corredores autorizados pelo Irão. Embora os Estados Unidos acusem o regime iraniano de atacar navios mercantes como política de Estado — a Guarda Revolucionária tem reivindicado a responsabilidade por vários ataques —, a Organização Marítima Internacional (OMI) alerta que nem todos os incidentes podem ser atribuídos a um único ator, devido à sobreposição de operações entre os dois lados e à atividade de outros grupos regionais, como os houthis no Mar Vermelho.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "Diário de Notícias",
+   "bloque": "Portugal",
+   "titulo": "Évora debate o futuro do vinho com líderes mundiais no Enosphere Symposium 2027",
+   "enlace": "http://dinheirovivo.dn.pt/vora-debate-o-futuro-do-vinho-com-lderes-mundiais-no-enosphere-symposium-2027",
+   "publicada": "2026-11-15T14:42+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "",
+   "texto": "Fundada por Luísa Amorim, CEO da Quinta Nova de Nossa Senhora do Carmo e Riccardo Cotarella, presidente da associação italiana de enólogos, a Enosphere nasceu com o propósito de fortalecer a voz da cultura do vinho e transformar o diálogo em ações concretas face aos desafios modernos do setor, como as alterações climáticas, a pressão regulatória e a mudança nos padrões de consumo, resumem os fundadores. Sob o mote \"Time to Wine\" (Hora do Vinho), o primeiro simpósio da Enosphere reunirá líderes de mais de 25 países, abrangendo áreas que vão desde a produção e ciência até à gastronomia, turismo e media. O grande destaque do evento reside no seu painel de convidados e oradores internacionais de prestígio, que partilharão o palco para moldar o futuro da cultura do vinho. Entre as principais vozes internacionais que, entre os dias 10 e 12 de fevereiro, se vão encontrar em Évora, encontram-se: Ariane de Rothschild, líder da prestigiada chancela Edmond Rothschild's Art de Vivre & Culture; Peter Sisseck, fundador da adega espanhola Dominio de Pingus; Edward Mukiibi, presidente da organização internacional Slow Food; Manuel Reman, presidente e CEO da histórica casa de champanhe francesa Maison Krug; Laurent Freixe, antigo CEO da multinacional Nestlé; Laurent Boillot, cofundador e presidente da Cha Ling (e ex-CEO da Guerlain e da Hennessy); Cristina Mariani, CEO e presidente do Castello Banfi e da Fondazione Banfi; Vincenzo Russo, professor de Psicologia do Consumidor e Neuromarketing na IULM University; David Khayat, prestigiado oncologista e antigo diretor do Departamento de Oncologia Médica do Hospital Pitié-Salpêtrière; Michael Caines, fundador do Lympstone Manor Hotel & Vineyard e da Michael Caines Foundation e Clara Le Fort, jornalista e autora especializada em vinhos e gastronomia. A estes nomes juntam-se os fundadores da iniciativa, Riccardo Cotarella e Luísa Amorim, além de Adrian Bridge, CEO da The Fladgate Partnership e fundador do The Porto Protocol. O simpósio pretende cruzar perspetivas geracionais e geográficas distintas, promovendo um espaço de partilha intelectualmente rigoroso e independente. Como refere Riccardo Cotarella em comunicado a que o DN teve acesso, \"o vinho precisa de conhecimento, educação e de uma voz capaz de falar claramente ao mundo de hoje\", estabelecendo em Évora o ponto de partida para um movimento de ambição global. Mercado do Champagne vale cerca de 27 mil milhões e Portugal quer ficar com uma parte Luísa Amorim é uma das três \"Damas do Vinho\" Gaveto encheu-se de cenouras e champanhe na apresentação dos novos Krug Lisboa recebe primeiro evento dedicado ao enoturismo urbano no Beato Francisco Toscano Rico: “São os vinhos com forte influência Atlântica que estão a dar cartas”",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "Diário de Notícias",
+   "bloque": "Portugal",
+   "titulo": "Pré-carregamento de \"GTA VI\" leva tráfego global da Net a máximo histórico acima dos 33 terabits por segundo",
+   "enlace": "https://www.dn.pt/viver/pr-carregamento-de-gta-vi-leva-trfego-global-da-net-a-mximo-histrico-acima-dos-33-terabits-por-segundo",
+   "publicada": "2026-11-15T14:41+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "",
+   "texto": "O arranque do pré-carregamento do videojogo Grand Theft Auto VI (GTA VI), disponibilizado na passada terça-feira, dia 10 de novembro, provocou um salto sem precedentes no fluxo mundial de dados. Segundo dados divulgados pela DE-CIX, o principal operador global de pontos de troca de tráfego (Internet Exchanges), a sua rede mundial ultrapassou pela primeira vez a fasquia dos 33 terabits por segundo, fixando um novo máximo histórico de 33,01 terabits por segundo. O impacto foi particularmente expressivo na infraestrutura europeia. No DE-CIX Frankfurt, o maior ponto de troca de tráfego da Europa, o fluxo de dados atingiu os 22,30 terabits por segundo às 20h20 CET (19h20 em Lisboa) de terça-feira. Este registo representa um crescimento de 19,06% face ao anterior recorde daquele nó de interconexão, que havia sido estabelecido em janeiro de 2026. A dimensão do fenómeno resulta da combinação entre a procura acumulada ao longo de 13 anos desde o lançamento de GTA V e a exigência técnica do novo título, cuja instalação requer até 212GB de espaço livre nas consolas PlayStation 5 e Xbox Series X/S. A estreia oficial do jogo nas lojas e plataformas digitais está agendada para a próxima quinta-feira, 19 de novembro. \"Os grandes lançamentos de videojogos estão entre os eventos capazes de provocar um aumento significativo do tráfego de Internet num período de tempo muito curto\", explica Thomas King, diretor tecnológico (CTO) da DE-CIX, citado em comunicado. \"Normalmente observamos picos de tráfego quando são disponibilizadas atualizações de software ou durante transmissões em direto de eventos como a Liga dos Campeões da UEFA ou o Campeonato do Mundo da FIFA, mas a escala absoluta deste aumento não tem precedentes\", sublinha o responsável. Para evitar estrangulamentos nas redes no dia de lançamento, o mecanismo de pré-download permite distribuir as transferências ao longo de nove dias. Neste período, mesmo que o jogo fique instalado nos aparelhos dos jogadores, este não corre antes da data de lançamento. De acordo com a DE-CIX — que interliga milhares de operadores e fornecedores de serviços de Internet a partir de centros de dados em mais de 600 cidades de mais de 100 países, ligando cerca de 1100 redes apenas em Frankfurt —, a absorção destes volumes exige uma estreita coordenação entre fornecedores de conteúdos e operadores de telecomunicações. A empresa mantém a taxa de utilização da sua rede igual ou inferior a 75%, garantindo capacidade de reserva para responder a picos inesperados.",
+   "texto_estado": "rss"
+  },
+  {
+   "fuente": "Renascença",
+   "bloque": "Portugal",
+   "titulo": "Incêndio habitacional em Pombal desaloja duas pessoas",
+   "enlace": "https://rr.pt/noticia/pais/2026/11/15/incendio-habitacional-em-pombal-desaloja-duas-pessoas/493679/?utm_medium=rss",
+   "publicada": null,
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Fogo ficou circunscrito a um quarto da habitação.",
+   "texto": "Incêndio habitacional em Pombal desaloja duas pessoas\n15 nov, 2026 - 15:04 • Lusa\nFogo ficou circunscrito a um quarto da habitação.\nUm incêndio consumiu este domingo, parcialmente, uma casa na freguesia de Guia, concelho de Pombal, implicando que os dois residentes tivessem de ser alojados em casa de familiares, revelou à Lusa fonte da proteção civil.\nJá segue a Informação da Renascença no WhatsApp? É só clicar aqui\nSegundo a fonte do Comando Sub-regional de Emergência e Proteção Civil da Região de Leiria, o alerta foi dado pelas 11h19, tendo o fogo ficado circunscrito a um quarto da habitação.\nAinda assim, continuou a fonte, as duas pessoas que residiam na casa tiveram de ser alojadas na residência de familiares.\nO combate às chamas esteve a cargo dos Bombeiros de Pombal, enquanto a GNR local tomou conta da ocorrência, disse.\n- Noticiário das 14h\n- 15 nov, 2026",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "Canarias Ahora",
+   "bloque": "Canarias",
+   "titulo": "Cristina Valido (CC-Primero Canarias) exige cubrir el coste real del transporte de mercancías para abaratar la cesta de la compra",
+   "enlace": "https://www.eldiario.es/canariasahora/politica/cristina-valido-cc-canarias-exige-cubrir-coste-real-transporte-mercancias-abaratar-cesta-compra_1_13665882.html",
+   "publicada": "2026-11-15T14:59+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "La candidata ha defendido que las compensaciones se revisen a principios de cada año conforme a los costes reales, para evitar que los sobrecostes derivados de la lejanía y la fragmentación territorial repercutan en las familias CC y Primero Canarias defiende rebajas fiscales para pymes y autónomos que facturen menos de 50.000 euros al año La cabeza de lista de Coalición Canaria-Primero Canarias al Congreso por Santa Cruz de Tenerife, Cristina Valido, ha reclamado este domingo que el Estado cubra el 100 % del coste real del transporte de mercancías para abaratar la cesta de la compra en Canari",
+   "texto": "Cristina Valido (CC-Primero Canarias) exige cubrir el coste real del transporte de mercancías para abaratar la cesta de la compra\n0\nLa cabeza de lista de Coalición Canaria-Primero Canarias al Congreso por Santa Cruz de Tenerife, Cristina Valido, ha reclamado este domingo que el Estado cubra el 100 % del coste real del transporte de mercancías para abaratar la cesta de la compra en Canarias.\nDurante una visita al Mercado de La Laguna, la candidata ha pedido actualizar las compensaciones por insularidad para los transportes entre las islas y con la Península, según ha informado CC en un comunicado.\nValido ha denunciado que estas ayudas siguen calculándose con referencias de 2019, pese al aumento del precio del combustible y al encarecimiento del transporte derivado de las sucesivas crisis internacionales.\n“El Estado no está cubriendo el coste real del transporte y esa diferencia la estamos pagando los canarios cuando llegamos a la caja del supermercado”, ha afirmado.\nLa candidata ha defendido que las compensaciones se revisen a principios de cada año conforme a los costes reales, para evitar que los sobrecostes derivados de la lejanía y la fragmentación territorial repercutan en las familias.\nAsimismo, ha vinculado el abaratamiento de la cesta de la compra con la protección del sector primario y ha reclamado el mantenimiento íntegro del programa de ayudas agrarias Posei y la aportación estatal completa a las ayudas a agricultores y ganaderos.\n“Canarias sigue teniendo que adelantar a nuestros agricultores y ganaderos un dinero que Madrid no aporta cuando corresponde”, ha señalado.\nValido ha sostenido que garantizar las compensaciones al transporte y la financiación del Posei permitiría fomentar el relevo generacional, preservar el suelo agrícola y avanzar hacia una mayor soberanía alimentaria.\nLa candidata ha insistido en que las medidas para combatir el incremento del coste de la vida deben tener en cuenta las singularidades económicas del archipiélago y evitar que residir en Canarias suponga pagar más por los productos básicos.",
+   "texto_estado": "descargado"
+  },
+  {
+   "fuente": "La Provincia",
+   "bloque": "Canarias (solo portada)",
+   "titulo": "'El perro andaluz' también cambia de día por el cara a cara entre Sánchez y Feijóo y no evitará el duelo con 'GH VIP'",
+   "enlace": "https://www.laprovincia.es/ocio/tv/2026/11/15/el-perro-andaluz-cambia-dia-cara-sanchez-feijoo-duelo-gh-vip-136468876.html",
+   "publicada": "2026-11-15T14:40+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El calendario electoral vuelve a alterar por completo las parrillas televisivas de nuestro país. Ante la inminente celebración del esperado cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo previsto para el próximo jueves 19 de noviembre, RTVE ha decidido mover ficha de urgencia para proteger una de sus grandes revelaciones de la temporada: 'El perro andaluz'.",
+   "texto": null,
+   "texto_estado": "no_pedido (solo titulares)"
+  },
+  {
+   "fuente": "El Día",
+   "bloque": "Canarias (solo portada)",
+   "titulo": "El CD Tenerife logra ante el Ceuta la victoria más necesaria",
+   "enlace": "https://www.eldia.es/deportes/cd-tenerife/2026/11/15/cd-tenerife-logra-ceuta-victoria-136469280.html",
+   "publicada": "2026-11-15T15:03+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Ninguna victoria cae en saco roto ni es inservible. Pero la conseguida este domingo por el Tenerife ante el Ceuta tiene el mérito y el valor añadidos de haberse producido en el regreso del equipo blanquiazul co la competición después del trágico fallecimiento de Jesús de Miguel por la fatal acción que tuvo lugar en ese mismo escenario, el estadio Heliodoro Rodríguez López, trece días antes. El representativo supo responder en una situación tan traumática y, más allá de dediar el triunfo a su compañero, pudo poner fin a una serie de jornadas sin vencer, seis en total hasta este 2-0 sobre el col",
+   "texto": null,
+   "texto_estado": "no_pedido (solo titulares)"
+  },
+  {
+   "fuente": "El Día",
+   "bloque": "Canarias (solo portada)",
+   "titulo": "Los quesos de Canarias se llevan 76 premios internacionales: consulta la lista completa de ganadores",
+   "enlace": "https://www.eldia.es/economia/2026/11/15/quesos-canarias-llevan-76-premios-lista-dv-136463297.html",
+   "publicada": "2026-11-15T15:01+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Los quesos de Canarias han vuelto a destacar en el panorama gastronómico internacional. Las elaboraciones del Archipiélago han conseguido 76 medallas en la 38ª edición de los World Cheese Awards, celebrada en Córdoba, donde compitieron más de 5.300 quesos procedentes de 45 países.",
+   "texto": null,
+   "texto_estado": "no_pedido (solo titulares)"
+  },
+  {
+   "fuente": "El Día",
+   "bloque": "Canarias (solo portada)",
+   "titulo": "Muere Antonio Sabugueiro, el hombre que convirtió la San Silvestre Vallecana en una tradición de Madrid",
+   "enlace": "https://www.eldia.es/deportes/2026/11/15/muere-antonio-sabugueiro-hombre-convirtio-san-silvestre-carrera-vallecana-tradicion-madrid-136469253.html",
+   "publicada": "2026-11-15T14:59+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "Hay carreras que se corren contra el reloj y otras que terminan convirtiéndose en parte de la identidad de una ciudad. La San Silvestre Vallecana pertenece a las segundas. Antonio Sabugueiro, su ideólogo y fundador, ha fallecido este domingo a los 94 años, dejando detrás una de las grandes tradiciones deportivas de Madrid.",
+   "texto": null,
+   "texto_estado": "no_pedido (solo titulares)"
+  },
+  {
+   "fuente": "El Día",
+   "bloque": "Canarias (solo portada)",
+   "titulo": "'El Hormiguero' se ve obligado a suspender la visita de Jordi Wild por el cara a cara Feijóo - Sánchez y deja en el aire la futura fecha de la entrevista",
+   "enlace": "https://www.eldia.es/ocio/tv/2026/11/15/el-hormiguero-jordi-wild-cae-lista-invitados-debate-sanchez-feijoo-136468085.html",
+   "publicada": "2026-11-15T14:12+00:00",
+   "vista": "2026-11-15T15:08+00:00",
+   "resumen": "El efecto dominó provocado por la cita con las urnas del próximo 29 de noviembre continúa transformando la parrilla de las principales cadenas de televisión. Tras anunciar inicialmente su lista de invitados para la próxima semana, 'El Hormiguero' se ha visto obligado a dar marcha atrás en sus planes y recortar sus emisiones de cuatro a tres días, cediendo el prime time del jueves a la actualidad política.",
+   "texto": null,
+   "texto_estado": "no_pedido (solo titulares)"
   }
  ]
 }
