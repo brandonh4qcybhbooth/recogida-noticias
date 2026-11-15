@@ -1,6 +1,6 @@
 [
   {"nombre": "BBC", "bloque": "Internacional", "tipo": "rss", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
-  {"nombre": "AP", "bloque": "Internacional", "tipo": "portada", "url": "https://apnews.com/world-news", "patron": "/article/"},
+  {"nombre": "AP", "bloque": "Internacional", "tipo": "chrome", "nota": "bloquea a GitHub (403)", "url": "https://apnews.com/world-news", "patron": "/article/"},
   {"nombre": "Al Jazeera", "bloque": "Internacional", "tipo": "rss", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
   {"nombre": "The Guardian", "bloque": "Internacional", "tipo": "rss", "url": "https://www.theguardian.com/world/rss"},
   {"nombre": "DW", "bloque": "Internacional / Europa", "tipo": "rss", "url": "https://rss.dw.com/rdf/rss-en-all"},
@@ -10,7 +10,7 @@
   {"nombre": "Politico Europe", "bloque": "Europa", "tipo": "rss", "url": "https://www.politico.eu/feed/"},
   {"nombre": "France 24", "bloque": "Europa", "tipo": "rss", "url": "https://www.france24.com/en/rss"},
   {"nombre": "EUobserver", "bloque": "Europa (reserva)", "tipo": "rss", "url": "https://euobserver.com/feed/"},
-  {"nombre": "The Brussels Times", "bloque": "Europa (reserva)", "tipo": "portada", "url": "https://www.brusselstimes.com/"},
+  {"nombre": "The Brussels Times", "bloque": "Europa (reserva)", "tipo": "chrome", "nota": "la portada no deja ver las noticias sin navegador", "url": "https://www.brusselstimes.com/"},
   {"nombre": "EUalive", "bloque": "Europa (reserva)", "tipo": "rss", "url": "https://eualive.net/feed/"},
 
   {"nombre": "RTVE", "bloque": "España", "tipo": "portada", "url": "https://www.rtve.es/noticias/", "patron": "/noticias/20"},
@@ -25,9 +25,9 @@
   {"nombre": "CNN Portugal", "bloque": "Portugal", "tipo": "rss", "url": "https://cnnportugal.iol.pt/rss.xml"},
   {"nombre": "Notícias ao Minuto", "bloque": "Portugal", "tipo": "rss", "url": "https://www.noticiasaominuto.com/rss/ultima-hora"},
   {"nombre": "Diário de Notícias", "bloque": "Portugal", "tipo": "rss", "url": "https://www.dn.pt/feed"},
-  {"nombre": "TSF", "bloque": "Portugal", "tipo": "portada", "url": "https://www.tsf.pt/"},
+  {"nombre": "TSF", "bloque": "Portugal", "tipo": "chrome", "nota": "bloquea a GitHub (403)", "url": "https://www.tsf.pt/"},
   {"nombre": "Renascença", "bloque": "Portugal", "tipo": "rss", "url": "https://rr.pt/rssfeed-ultimas"},
-  {"nombre": "Jornal de Notícias", "bloque": "Portugal (reserva)", "tipo": "portada", "url": "https://www.jn.pt/"},
+  {"nombre": "Jornal de Notícias", "bloque": "Portugal (reserva)", "tipo": "chrome", "nota": "bloquea a GitHub (403)", "url": "https://www.jn.pt/"},
 
   {"nombre": "Canarias Ahora", "bloque": "Canarias", "tipo": "rss", "url": "https://www.eldiario.es/rss/canariasahora/"},
   {"nombre": "RTVC", "bloque": "Canarias", "tipo": "portada", "url": "https://rtvc.es/"},

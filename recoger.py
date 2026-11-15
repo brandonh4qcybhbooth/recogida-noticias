@@ -177,11 +177,16 @@ def main():
     ayer = cargar(archivo_del_dia(hoy - timedelta(days=1)), hoy - timedelta(days=1))
     ya_vistos = {n["enlace"] for n in datos["noticias"] + ayer["noticias"]}
 
-    recogida = {"hora": ahora.isoformat(timespec="minutes"), "por_fuente": {}, "fallos": []}
+    recogida = {"hora": ahora.isoformat(timespec="minutes"), "por_fuente": {}, "fallos": [],
+                "leer_con_chrome": [], "detalle": {}}
     nuevas = []
     limite_fecha = datetime.now(timezone.utc) - timedelta(hours=MAX_HORAS_ANTIGUEDAD)
 
     for f in fuentes:
+        if f["tipo"] == "chrome":
+            recogida["leer_con_chrome"].append({"fuente": f["nombre"], "url": f["url"],
+                                                "motivo": f.get("nota", "")})
+            continue
         try:
             lista = leer_fuente(f)
         except Exception as e:  # noqa: BLE001
@@ -189,12 +194,20 @@ def main():
             recogida["por_fuente"][f["nombre"]] = 0
             continue
         contador = 0
+        det = {"leidas": len(lista), "repetidas": 0, "antiguas": 0, "descartadas": 0,
+               "mas_reciente": None}
+        fechas = [n["fecha"] for n in lista if n["fecha"]]
+        if fechas:
+            det["mas_reciente"] = max(fechas).astimezone(ZONA).isoformat(timespec="minutes")
         for n in lista:
             if n["enlace"] in ya_vistos:
+                det["repetidas"] += 1
                 continue
             if f.get("descartar") and re.search(f["descartar"], n["enlace"]):
+                det["descartadas"] += 1
                 continue
             if n["fecha"] and n["fecha"] < limite_fecha:
+                det["antiguas"] += 1
                 continue
             ya_vistos.add(n["enlace"])
             contador += 1
@@ -211,6 +224,7 @@ def main():
                 "_articulo": f.get("articulo", True),
             })
         recogida["por_fuente"][f["nombre"]] = contador
+        recogida["detalle"][f["nombre"]] = det
 
     # Descargar el texto de los artículos nuevos que no lo traen en el RSS.
     por_bajar = [n for n in nuevas
@@ -235,6 +249,8 @@ def main():
     print(f"{len(nuevas)} noticias nuevas. Fallos: {len(recogida['fallos'])}")
     for fallo in recogida["fallos"]:
         print(f"  - {fallo['fuente']}: {fallo['error']}")
+    for nombre, det in recogida["detalle"].items():
+        print(f"  {nombre}: {det}")
     return 0
 
 
