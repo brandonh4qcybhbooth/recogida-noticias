@@ -1,0 +1,4 @@
+feedparser
+requests
+trafilatura
+beautifulsoup4

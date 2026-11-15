@@ -1,0 +1,42 @@
+[
+  {"nombre": "BBC", "bloque": "Internacional", "tipo": "rss", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+  {"nombre": "AP", "bloque": "Internacional", "tipo": "portada", "url": "https://apnews.com/world-news", "patron": "/article/"},
+  {"nombre": "Al Jazeera", "bloque": "Internacional", "tipo": "rss", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+  {"nombre": "The Guardian", "bloque": "Internacional", "tipo": "rss", "url": "https://www.theguardian.com/world/rss"},
+  {"nombre": "DW", "bloque": "Internacional / Europa", "tipo": "rss", "url": "https://rss.dw.com/rdf/rss-en-all"},
+  {"nombre": "NPR", "bloque": "Internacional", "tipo": "rss", "url": "https://feeds.npr.org/1001/rss.xml"},
+
+  {"nombre": "Euronews", "bloque": "Europa", "tipo": "rss", "url": "https://www.euronews.com/rss"},
+  {"nombre": "Politico Europe", "bloque": "Europa", "tipo": "rss", "url": "https://www.politico.eu/feed/"},
+  {"nombre": "France 24", "bloque": "Europa", "tipo": "rss", "url": "https://www.france24.com/en/rss"},
+  {"nombre": "EUobserver", "bloque": "Europa (reserva)", "tipo": "rss", "url": "https://euobserver.com/feed/"},
+  {"nombre": "The Brussels Times", "bloque": "Europa (reserva)", "tipo": "portada", "url": "https://www.brusselstimes.com/"},
+  {"nombre": "EUalive", "bloque": "Europa (reserva)", "tipo": "rss", "url": "https://eualive.net/feed/"},
+
+  {"nombre": "RTVE", "bloque": "España", "tipo": "portada", "url": "https://www.rtve.es/noticias/", "patron": "/noticias/20"},
+  {"nombre": "elDiario.es", "bloque": "España", "tipo": "rss", "url": "https://www.eldiario.es/rss/"},
+  {"nombre": "20minutos", "bloque": "España", "tipo": "rss", "url": "https://www.20minutos.es/rss/"},
+  {"nombre": "El Confidencial", "bloque": "España", "tipo": "rss", "url": "https://rss.elconfidencial.com/espana/"},
+  {"nombre": "The Objective", "bloque": "España", "tipo": "rss", "url": "https://theobjective.com/feed/"},
+  {"nombre": "Europa Press", "bloque": "España", "tipo": "rss", "url": "https://www.europapress.es/rss/rss.aspx"},
+
+  {"nombre": "RTP", "bloque": "Portugal", "tipo": "rss", "url": "https://www.rtp.pt/noticias/rss", "descartar": "_v[0-9]+$"},
+  {"nombre": "SIC Notícias", "bloque": "Portugal", "tipo": "rss", "url": "https://rss.impresa.pt/feed/latest/sicnot.rss"},
+  {"nombre": "CNN Portugal", "bloque": "Portugal", "tipo": "rss", "url": "https://cnnportugal.iol.pt/rss.xml"},
+  {"nombre": "Notícias ao Minuto", "bloque": "Portugal", "tipo": "rss", "url": "https://www.noticiasaominuto.com/rss/ultima-hora"},
+  {"nombre": "Diário de Notícias", "bloque": "Portugal", "tipo": "rss", "url": "https://www.dn.pt/feed"},
+  {"nombre": "TSF", "bloque": "Portugal", "tipo": "portada", "url": "https://www.tsf.pt/"},
+  {"nombre": "Renascença", "bloque": "Portugal", "tipo": "rss", "url": "https://rr.pt/rssfeed-ultimas"},
+  {"nombre": "Jornal de Notícias", "bloque": "Portugal (reserva)", "tipo": "portada", "url": "https://www.jn.pt/"},
+
+  {"nombre": "Canarias Ahora", "bloque": "Canarias", "tipo": "rss", "url": "https://www.eldiario.es/rss/canariasahora/"},
+  {"nombre": "RTVC", "bloque": "Canarias", "tipo": "portada", "url": "https://rtvc.es/"},
+  {"nombre": "Diario de Avisos", "bloque": "Canarias", "tipo": "rss", "url": "https://diariodeavisos.elespanol.com/feed/"},
+  {"nombre": "Canarias7", "bloque": "Canarias", "tipo": "rss_auto", "url": "https://www.canarias7.es/"},
+  {"nombre": "La Provincia", "bloque": "Canarias (solo portada)", "tipo": "rss", "url": "https://www.laprovincia.es/rss/", "articulo": false},
+  {"nombre": "El Día", "bloque": "Canarias (solo portada)", "tipo": "rss", "url": "https://www.eldia.es/rss/", "articulo": false},
+
+  {"nombre": "Diario de Fuerteventura", "bloque": "Fuerteventura", "tipo": "portada", "url": "https://www.diariodefuerteventura.com/"},
+  {"nombre": "Noticias Fuerteventura", "bloque": "Fuerteventura", "tipo": "portada", "url": "https://www.noticiasfuerteventura.com/"},
+  {"nombre": "Fuerteventura Ahora", "bloque": "Fuerteventura", "tipo": "rss", "url": "https://www.eldiario.es/rss/canariasahora/fuerteventuraahora/"}
+]
