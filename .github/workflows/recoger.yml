@@ -2,7 +2,10 @@ name: Recoger noticias
 
 on:
   schedule:
-    - cron: "17 */3 * * *"   # cada 3 horas, en el minuto 17 (hora UTC = hora de Canarias en invierno)
+    # Hora UTC (en invierno es la misma que en Canarias; en verano, Canarias va 1 hora por delante).
+    # GitHub se salta muchas ejecuciones programadas, por eso se pide una cada hora.
+    - cron: "17 * * * *"     # cada hora, en el minuto 17
+    - cron: "41 5,6 * * *"   # dos fijas antes del resumen de la mañana (5:41 y 6:41)
   workflow_dispatch:          # botón para lanzarla a mano
 
 permissions:
